@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>阿拉伯爵士电台 Arabic Nights Jazz</title>
+    <title>阿拉伯爵士电台 Arabic Jazz Radio</title>
     <link>https://luxuguang-leo.github.io/arabic-jazz-podcast</link>
-    <description>从开罗到巴格达，从卡萨布兰卡到萨那——一次穿越阿拉伯世界的爵士之旅。Arabic jazz from Cairo to Baghdad, Casablanca to Sana'a.</description>
+    <description>从开罗到巴格达，从卡萨布兰卡到萨那——一座城一首爵士曲。Arabic jazz from Cairo to Baghdad, city by city, note by note.</description>
     <language>zh</language>
-    <lastBuildDate>Wed, 13 May 2026 15:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 15:11:31 +0000</lastBuildDate>
     <itunes:author>Leo</itunes:author>
     <itunes:summary>阿拉伯爵士电台 — 阿拉伯世界各城市的爵士之声，按城市场景组织。</itunes:summary>
-    <itunes:image href="http://tejnectvq.hd-bkt.clouddn.com/arabic-cover.jpg"/>
+    <itunes:image href="http://tejnectvq.hd-bkt.clouddn.com/arabic/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Leo</itunes:name>
@@ -18,227 +18,231 @@
     </itunes:category>
     <atom:link href="https://luxuguang-leo.github.io/arabic-jazz-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Echoes of Baghdad ｜ Iraqi Maqam &amp; Western Jazz Fusion 🌙 ｜ الجاز العربي</title>
-      <description>Echoes of Baghdad ｜ Iraqi Maqam &amp; Western Jazz Fusion 🌙 ｜ الجاز العربي
+      <title>Cairo After Dark</title>
+      <description>Cairo After Dark
 
-伊拉克maqam的即兴性(tahrir)与爵士的improvisation本质相通。
-
-「巴格达的底色是maqam与离愁——两河流域的古老忧伤遇见12小节Blues。」
-
-📍 Baghdad
-
-Collection: ArobiyyahJazz  |  Duration: 34:32</description>
-      <itunes:summary>伊拉克maqam的即兴性(tahrir)与爵士的improvisation本质相通。
-
-「巴格达的底色是maqam与离愁——两河流域的古老忧伤遇见12小节Blues。」</itunes:summary>
-      <guid isPermaLink="false">4cb8b749c5f8126e05033aeebb62fa52</guid>
-      <pubDate>Wed, 13 May 2026 15:02:24 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/echoes-of-baghdad-iraqi-maqam-western-jazz-fusion-الجاز-العر.m4a" length="33511201" type="audio/mp4"/>
-      <itunes:duration>34:32</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>A Jazz Evening in Alexandria ｜ Arabic Jazz Fusion</title>
-      <description>A Jazz Evening in Alexandria ｜ Arabic Jazz Fusion
-
-亚历山大是埃及面向欧洲的门户，1920-30年代欧洲侨民带来的爵士乐，混杂着渔港的生活节奏，形成了独特的地中海爵士风格。
-
-📍 Alexandria
-
-Collection: NafasJazz  |  Duration: 1:07:18</description>
-      <itunes:summary>亚历山大是埃及面向欧洲的门户，1920-30年代欧洲侨民带来的爵士乐，混杂着渔港的生活节奏，形成了独特的地中海爵士风格。</itunes:summary>
-      <guid isPermaLink="false">dc3e0d4af66c276e3ed283bea1869b22</guid>
-      <pubDate>Wed, 13 May 2026 15:01:28 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/a-jazz-evening-in-alexandria-arabic-jazz-fusion.m4a" length="65318374" type="audio/mp4"/>
-      <itunes:duration>1:07:18</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Beirut Jazz Experience ｜ Lebanese Jazz &amp; Arabic Melodies Mix  ｜ Ideal For Late Night &amp; Focus 🌙</title>
-      <description>Beirut Jazz Experience ｜ Lebanese Jazz &amp; Arabic Melodies Mix  ｜ Ideal For Late Night &amp; Focus 🌙
-
-黎巴嫩内战前，贝鲁特被称为「中东巴黎」。作曲家Ziad Rahbani在70-80年代创作了融合爵士、funk与阿拉伯旋律的经典作品。
-
-「贝鲁特的爵士有一种废墟中重建的韧性——带着伤感的优雅。」
-
-📍 Beirut
-
-Collection: NafasJazz  |  Duration: 1:08:36</description>
-      <itunes:summary>黎巴嫩内战前，贝鲁特被称为「中东巴黎」。作曲家Ziad Rahbani在70-80年代创作了融合爵士、funk与阿拉伯旋律的经典作品。
-
-「贝鲁特的爵士有一种废墟中重建的韧性——带着伤感的优雅。」</itunes:summary>
-      <guid isPermaLink="false">6f59b033ea7310da1d2dba353b00bfa9</guid>
-      <pubDate>Wed, 13 May 2026 15:01:41 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/beirut-jazz-experience-lebanese-jazz-arabic-melodies-mix-ide.m4a" length="66567319" type="audio/mp4"/>
-      <itunes:duration>1:08:36</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Beirut, Unsaid ｜ Lebanese Jazz &amp; Arabic Melodies Mix  ｜ Ideal For Late Night &amp; Focus 🌙</title>
-      <description>Beirut, Unsaid ｜ Lebanese Jazz &amp; Arabic Melodies Mix  ｜ Ideal For Late Night &amp; Focus 🌙
-
-「贝鲁特的爵士有一种废墟中重建的韧性——带着伤感的优雅。」
-
-📍 Beirut
-
-Collection: NafasJazz  |  Duration: 57:34</description>
-      <itunes:summary>「贝鲁特的爵士有一种废墟中重建的韧性——带着伤感的优雅。」</itunes:summary>
-      <guid isPermaLink="false">97b3044db12038432ff4d5a4170368a9</guid>
-      <pubDate>Wed, 13 May 2026 15:03:02 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/beirut-unsaid.m4a" length="55872950" type="audio/mp4"/>
-      <itunes:duration>57:34</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Cairo After Dark ｜  Arabic Melodies &amp; Jazz Fusion Mix ｜ Ideal For Late Night &amp; Focus 🌙</title>
-      <description>Cairo After Dark ｜  Arabic Melodies &amp; Jazz Fusion Mix ｜ Ideal For Late Night &amp; Focus 🌙
-
-开罗是阿拉伯世界最早拥抱爵士的城市。1968年，埃及鼓手Salah Ragab创立开罗爵士乐队，将埃及传统maqam调式与爵士大乐队融合。
+📍 Cairo • 开罗是阿拉伯世界最早拥抱爵士的城市。1968年，埃及鼓手Salah Ragab创立开罗爵士乐队，将埃及传统maqam调式与爵士大乐队融合。同年Sun Ra到访开罗，与Ragab同台录音。今天的开罗爵士俱乐部(Cairo Jazz Club)和开罗爵士音乐节延续着这条血脉。
 
 「开罗是唯一同时拥有本土爵士运动和西方爵士朝圣的阿拉伯城市。」
 
-📍 Cairo
-
-Collection: NafasJazz  |  Duration: 1:01:57</description>
-      <itunes:summary>开罗是阿拉伯世界最早拥抱爵士的城市。1968年，埃及鼓手Salah Ragab创立开罗爵士乐队，将埃及传统maqam调式与爵士大乐队融合。
+🇪🇬 开罗  |  Duration: 1:01:57</description>
+      <itunes:summary>📍 Cairo • 开罗是阿拉伯世界最早拥抱爵士的城市。1968年，埃及鼓手Salah Ragab创立开罗爵士乐队，将埃及传统maqam调式与爵士大乐队融合。同年Sun Ra到访开罗，与Ragab同台录音。今天的开罗爵士俱乐部(Cairo Jazz Club)和开罗爵士音乐节延续着这条血脉。
 
 「开罗是唯一同时拥有本土爵士运动和西方爵士朝圣的阿拉伯城市。」</itunes:summary>
-      <guid isPermaLink="false">98ae668e799e1a66b853bce86e38e6b0</guid>
-      <pubDate>Wed, 13 May 2026 15:01:15 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/cairo-after-dark-arabic-melodies-jazz-fusion-mix-ideal-for-l.m4a" length="60119230" type="audio/mp4"/>
+      <guid isPermaLink="false">a1552f3d8e90cf9b5fa5ae2cf85c3e54</guid>
+      <pubDate>Sat, 02 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/cairo-after-dark-arabic-melodies-jazz-fusion-mix-ideal-for-l.m4a" length="60119230" type="audio/mp4"/>
       <itunes:duration>1:01:57</itunes:duration>
+      <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Damascus, Unsaid ｜ Arabic Jazz &amp; Ethereal Melodies Mix ｜ Ideal For Work &amp; Late Night Focus 🌙</title>
-      <description>Damascus, Unsaid ｜ Arabic Jazz &amp; Ethereal Melodies Mix ｜ Ideal For Work &amp; Late Night Focus 🌙
+      <title>A Jazz Evening in Alexandria</title>
+      <description>A Jazz Evening in Alexandria
 
-大马士革，人类连续居住最久的城市。叙利亚古典音乐的即兴段落(taqsim)在结构上与爵士独奏一脉相承。
+📍 Alexandria • 亚历山大是地中海最国际化的阿拉伯港口。1920-30年代欧洲爵士唱片随货轮抵达这里，比开罗更早接触到摇摆乐。这座城市的多元文化基因——希腊、意大利、黎巴嫩——让它的爵士气质自带忧郁与浪漫。
 
-「大马士革的爵士是私密的——不在舞台，在深夜的客厅。」
+「亚历山大是地中海畔的爵士驿站——海风、记忆与老唱片。」
 
-📍 Damascus
+🇪🇬 亚历山大  |  Duration: 1:07:18</description>
+      <itunes:summary>📍 Alexandria • 亚历山大是地中海最国际化的阿拉伯港口。1920-30年代欧洲爵士唱片随货轮抵达这里，比开罗更早接触到摇摆乐。这座城市的多元文化基因——希腊、意大利、黎巴嫩——让它的爵士气质自带忧郁与浪漫。
 
-Collection: NafasJazz  |  Duration: 1:31:34</description>
-      <itunes:summary>大马士革，人类连续居住最久的城市。叙利亚古典音乐的即兴段落(taqsim)在结构上与爵士独奏一脉相承。
-
-「大马士革的爵士是私密的——不在舞台，在深夜的客厅。」</itunes:summary>
-      <guid isPermaLink="false">7648c3b759377f138ec00dec50888938</guid>
-      <pubDate>Wed, 13 May 2026 15:03:47 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/damascus-unsaid.m4a" length="88852982" type="audio/mp4"/>
-      <itunes:duration>1:31:34</itunes:duration>
+「亚历山大是地中海畔的爵士驿站——海风、记忆与老唱片。」</itunes:summary>
+      <guid isPermaLink="false">10c62b2645636c4d8edbee03ef4b07d6</guid>
+      <pubDate>Sun, 03 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/a-jazz-evening-in-alexandria-arabic-jazz-fusion.m4a" length="65318374" type="audio/mp4"/>
+      <itunes:duration>1:07:18</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Hidden In Casablanca ｜ Arabic Jazz &amp; Moroccan Melodies Mix ｜ Ideal For Late Night &amp; Focus 🌙</title>
-      <description>Hidden In Casablanca ｜ Arabic Jazz &amp; Moroccan Melodies Mix ｜ Ideal For Late Night &amp; Focus 🌙
+      <title>Beirut Jazz Experience</title>
+      <description>Beirut Jazz Experience
 
-Gnawa Jazz——撒哈拉的节奏遇见爵士。
+📍 Beirut • 黎巴嫩是阿拉伯世界最开放的音乐实验场。Ziad Rahbani（Fairuz之子）在1970年代将爵士和声融入黎巴嫩传统音乐，创造了独特的Beirut Jazz之声。内战期间，爵士乐是贝鲁特人的避难所。
 
-「卡萨布兰卡的爵士有撒哈拉的底色——节奏是非洲的，旋律是阿拉伯的，灵魂是苏菲的。」
+「贝鲁特的一切都带着伤疤——包括它的爵士，美丽而破碎。」
 
-📍 Casablanca
+🇱🇧 贝鲁特  |  Duration: 1:08:36</description>
+      <itunes:summary>📍 Beirut • 黎巴嫩是阿拉伯世界最开放的音乐实验场。Ziad Rahbani（Fairuz之子）在1970年代将爵士和声融入黎巴嫩传统音乐，创造了独特的Beirut Jazz之声。内战期间，爵士乐是贝鲁特人的避难所。
 
-Collection: NafasJazz  |  Duration: 1:05:12</description>
-      <itunes:summary>Gnawa Jazz——撒哈拉的节奏遇见爵士。
-
-「卡萨布兰卡的爵士有撒哈拉的底色——节奏是非洲的，旋律是阿拉伯的，灵魂是苏菲的。」</itunes:summary>
-      <guid isPermaLink="false">6ba8fcbd02f107d2d872eb985e81efd5</guid>
-      <pubDate>Wed, 13 May 2026 15:04:40 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/hidden-in-casablanca-arabic-jazz-moroccan-melodies-mix-ideal.m4a" length="63281478" type="audio/mp4"/>
-      <itunes:duration>1:05:12</itunes:duration>
+「贝鲁特的一切都带着伤疤——包括它的爵士，美丽而破碎。」</itunes:summary>
+      <guid isPermaLink="false">8c29fd06943bf3c11c21cf3c98adae20</guid>
+      <pubDate>Mon, 04 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/beirut-jazz-experience-lebanese-jazz-arabic-melodies-mix-ide.m4a" length="66567319" type="audio/mp4"/>
+      <itunes:duration>1:08:36</itunes:duration>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Midnight in Wahran ｜ Arabic Jazz Fusion</title>
-      <description>Midnight in Wahran ｜ Arabic Jazz Fusion
+      <title>Beirut Nights Unspoken</title>
+      <description>Beirut Nights Unspoken
 
-瓦赫兰(奥兰)，Raï音乐的诞生地。1930年代法国殖民时期已有爵士俱乐部。
+📍 Beirut • 贝鲁特的夜总会在1970年代达到黄金时代：凤凰城(Phoenicia)、夏日之地(Summerland)的爵士现场，吸引了Miles Davis和Dizzy Gillespie到访。今天的贝鲁特爵士节延续着这种不夜城的音乐传统。
 
-「瓦赫兰的爵士是小号喊出来的Raï，在港口酒馆里醉着唱。」
+「贝鲁特的夜晚从不安静——枪声与萨克斯风，各占一半。」
 
-📍 Wahran
+🇱🇧 贝鲁特  |  Duration: 1:00:55</description>
+      <itunes:summary>📍 Beirut • 贝鲁特的夜总会在1970年代达到黄金时代：凤凰城(Phoenicia)、夏日之地(Summerland)的爵士现场，吸引了Miles Davis和Dizzy Gillespie到访。今天的贝鲁特爵士节延续着这种不夜城的音乐传统。
 
-Collection: NafasJazz  |  Duration: 1:15:16</description>
-      <itunes:summary>瓦赫兰(奥兰)，Raï音乐的诞生地。1930年代法国殖民时期已有爵士俱乐部。
-
-「瓦赫兰的爵士是小号喊出来的Raï，在港口酒馆里醉着唱。」</itunes:summary>
-      <guid isPermaLink="false">318718cf37f2590143749ca69379f352</guid>
-      <pubDate>Wed, 13 May 2026 15:06:06 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/midnight-in-wahran.m4a" length="73041719" type="audio/mp4"/>
-      <itunes:duration>1:15:16</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Remembering Old Sana'a ｜ Arabic Jazz &amp; Ethereal Melodies Mix ｜ Ideal For Work &amp; Late Night Focus 🌙</title>
-      <description>Remembering Old Sana'a ｜ Arabic Jazz &amp; Ethereal Melodies Mix ｜ Ideal For Work &amp; Late Night Focus 🌙
-
-也门传统音乐al-Ghina al-San'ani可追溯至14世纪。萨那老城像被时间遗忘的城堡。
-
-「萨那不是有爵士的城市——它本身就是一首爵士曲子，慢板、静默、千年不变。」
-
-📍 Sanaa
-
-Collection: NafasJazz  |  Duration: 1:22:17</description>
-      <itunes:summary>也门传统音乐al-Ghina al-San'ani可追溯至14世纪。萨那老城像被时间遗忘的城堡。
-
-「萨那不是有爵士的城市——它本身就是一首爵士曲子，慢板、静默、千年不变。」</itunes:summary>
-      <guid isPermaLink="false">6d9d4e2238f8aaa63333407aeb70e61b</guid>
-      <pubDate>Wed, 13 May 2026 15:06:36 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/remembering-old-sanaa.m4a" length="79843975" type="audio/mp4"/>
-      <itunes:duration>1:22:17</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Tunis Knows Jazz ｜ Arabic Jazz &amp; Ethereal Melodies Mix ｜ Ideal For Work &amp; Late Night Focus 🌙</title>
-      <description>Tunis Knows Jazz ｜ Arabic Jazz &amp; Ethereal Melodies Mix ｜ Ideal For Work &amp; Late Night Focus 🌙
-
-Anouar Brahem，签约ECM四十年的乌德琴诗人。
-
-「突尼斯的爵士是诗——没有鼓点的催促，只有乌德琴与低音提琴的对话。」
-
-📍 Tunis
-
-Collection: NafasJazz  |  Duration: 1:30:40</description>
-      <itunes:summary>Anouar Brahem，签约ECM四十年的乌德琴诗人。
-
-「突尼斯的爵士是诗——没有鼓点的催促，只有乌德琴与低音提琴的对话。」</itunes:summary>
-      <guid isPermaLink="false">2953adebc190ba295593a0c50949b02a</guid>
-      <pubDate>Wed, 13 May 2026 15:05:33 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/tunis-knows-jazz-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="87994725" type="audio/mp4"/>
-      <itunes:duration>1:30:40</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Arabian Oud Lofi Beirut Nights ｜ ليالي بيروت • عود</title>
-      <description>Arabian Oud Lofi Beirut Nights ｜ ليالي بيروت • عود
-
-阿拉伯乌德lofi与贝鲁特之夜的融合——「乌德琴的低语，在贝鲁特老城巷弄里回荡。」
-
-📍 Beirut
-
-Collection: SantonoNoise  |  Duration: 1:19:06</description>
-      <itunes:summary>阿拉伯乌德lofi与贝鲁特之夜的融合——「乌德琴的低语，在贝鲁特老城巷弄里回荡。」</itunes:summary>
-      <guid isPermaLink="false">bb90858b95e0dd43568d0f316d0abfe0</guid>
-      <pubDate>Wed, 13 May 2026 15:02:16 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabian-oud-lofi-beirut-nights-ليالي-بيروت-عود.m4a" length="76757358" type="audio/mp4"/>
-      <itunes:duration>1:19:06</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Beirut Nights Unspoken 🌙 ｜ Smooth Arabic Jazz &amp; Oud for Deep Focus</title>
-      <description>Beirut Nights Unspoken 🌙 ｜ Smooth Arabic Jazz &amp; Oud for Deep Focus
-
-「贝鲁特的爵士有一种废墟中重建的韧性——带着伤感的优雅。」
-
-📍 Beirut
-
-Collection: SaffronJazzLounge  |  Duration: 1:00:55</description>
-      <itunes:summary>「贝鲁特的爵士有一种废墟中重建的韧性——带着伤感的优雅。」</itunes:summary>
-      <guid isPermaLink="false">e66ea1fefb9345853b3308da08ac8035</guid>
-      <pubDate>Wed, 13 May 2026 15:02:00 +0000</pubDate>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/beirut-nights-unspoken-smooth-arabic-jazz-oud-for-deep-focus.m4a" length="59120344" type="audio/mp4"/>
+「贝鲁特的夜晚从不安静——枪声与萨克斯风，各占一半。」</itunes:summary>
+      <guid isPermaLink="false">491c31c6a89b590be86bb5499f743d3f</guid>
+      <pubDate>Tue, 05 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/beirut-nights-unspoken-smooth-arabic-jazz-oud-for-deep-focus.m4a" length="59120344" type="audio/mp4"/>
       <itunes:duration>1:00:55</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Beirut, Unsaid</title>
+      <description>Beirut, Unsaid
+
+📍 Beirut • 黎巴嫩爵士与阿拉伯旋律的融合，常以乌德(Oud)为桥梁。传统乌德大师如Marcel Khalife的现代实验，直接影响了新一代贝鲁特爵士音乐家的调性语言。
+
+「乌德的弦上住着贝鲁特的魂——弹的是Maqam，听的是故事。」
+
+🇱🇧 贝鲁特  |  Duration: 57:34</description>
+      <itunes:summary>📍 Beirut • 黎巴嫩爵士与阿拉伯旋律的融合，常以乌德(Oud)为桥梁。传统乌德大师如Marcel Khalife的现代实验，直接影响了新一代贝鲁特爵士音乐家的调性语言。
+
+「乌德的弦上住着贝鲁特的魂——弹的是Maqam，听的是故事。」</itunes:summary>
+      <guid isPermaLink="false">fe739ca3463a785003e9415fdbcee253</guid>
+      <pubDate>Wed, 06 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/beirut-unsaid-lebanese-jazz-arabic-melodies-mix-ideal-for-la.m4a" length="55872950" type="audio/mp4"/>
+      <itunes:duration>57:34</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Arabian Oud Lofi Beirut Nights</title>
+      <description>Arabian Oud Lofi Beirut Nights
+
+📍 Beirut • 乌德(lofi)的贝鲁特之夜，将传统阿拉伯拨弦乐器放入lofi hip hop的节奏框架，创造了一种适合深夜专注的都市声音。SantonoNoise频道的标志性风格。
+
+「贝鲁特的乌德在lofi中找到了新的夜晚——不眠的数码阿拉伯。」
+
+🇱🇧 贝鲁特  |  Duration: 1:19:06</description>
+      <itunes:summary>📍 Beirut • 乌德(lofi)的贝鲁特之夜，将传统阿拉伯拨弦乐器放入lofi hip hop的节奏框架，创造了一种适合深夜专注的都市声音。SantonoNoise频道的标志性风格。
+
+「贝鲁特的乌德在lofi中找到了新的夜晚——不眠的数码阿拉伯。」</itunes:summary>
+      <guid isPermaLink="false">c009963b0f05b44c829558e4d2df8a31</guid>
+      <pubDate>Thu, 07 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/arabian-oud-lofi-beirut-nights-ليالي-بيروت-عود.m4a" length="76757358" type="audio/mp4"/>
+      <itunes:duration>1:19:06</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Damascus, Unsaid</title>
+      <description>Damascus, Unsaid
+
+📍 Damascus • 大马士革是世界上最古老的持续有人居住的城市。其音乐传统Muwashshah（安达卢西亚古诗配乐）将诗歌、旋律与即兴融为一体——与爵士的spiritual jazz异曲同工。叙利亚爵士钢琴家Basel Rajoub是当代的桥梁人物。
+
+「大马士革的寂静里藏着四千年的旋律——它不需要说出口。」
+
+🇸🇾 大马士革  |  Duration: 1:31:34</description>
+      <itunes:summary>📍 Damascus • 大马士革是世界上最古老的持续有人居住的城市。其音乐传统Muwashshah（安达卢西亚古诗配乐）将诗歌、旋律与即兴融为一体——与爵士的spiritual jazz异曲同工。叙利亚爵士钢琴家Basel Rajoub是当代的桥梁人物。
+
+「大马士革的寂静里藏着四千年的旋律——它不需要说出口。」</itunes:summary>
+      <guid isPermaLink="false">440ee67efca3a3c61298f156448f1fad</guid>
+      <pubDate>Fri, 08 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/damascus-unsaid-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="88852982" type="audio/mp4"/>
+      <itunes:duration>1:31:34</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Echoes of Baghdad</title>
+      <description>Echoes of Baghdad
+
+📍 Baghdad • 伊拉克maqam是阿拉伯世界最复杂的调式体系。maqam的即兴性(tahrir)与爵士的improvisation本质相通。1950年代巴格达的夜总会文化融合了爵士大乐队与伊拉克民歌。
+
+「巴格达的底色是maqam与离愁——两河流域的古老忧伤遇见12小节Blues。」
+
+🇮🇶 巴格达  |  Duration: 34:32</description>
+      <itunes:summary>📍 Baghdad • 伊拉克maqam是阿拉伯世界最复杂的调式体系。maqam的即兴性(tahrir)与爵士的improvisation本质相通。1950年代巴格达的夜总会文化融合了爵士大乐队与伊拉克民歌。
+
+「巴格达的底色是maqam与离愁——两河流域的古老忧伤遇见12小节Blues。」</itunes:summary>
+      <guid isPermaLink="false">6ac80e8153e92ddea94e95f9e3682fe5</guid>
+      <pubDate>Sat, 09 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/echoes-of-baghdad-iraqi-maqam-western-jazz-fusion-الجاز-العر.m4a" length="33511201" type="audio/mp4"/>
+      <itunes:duration>34:32</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Hidden In Casablanca</title>
+      <description>Hidden In Casablanca
+
+📍 Casablanca • 摩洛哥的Gnawa音乐——由西非奴隶后裔传承的仪式性音乐——在1990年代被Majid Bekkas带入爵士世界。他同时演奏Gnawa低音古筝(guembri)和爵士吉他，是北非爵士的灵魂人物。
+
+「卡萨布兰卡不止是电影里的黑白浪漫——还有Gnawa的低音在爵士里呼吸。」
+
+🇲🇦 卡萨布兰卡  |  Duration: 1:05:12</description>
+      <itunes:summary>📍 Casablanca • 摩洛哥的Gnawa音乐——由西非奴隶后裔传承的仪式性音乐——在1990年代被Majid Bekkas带入爵士世界。他同时演奏Gnawa低音古筝(guembri)和爵士吉他，是北非爵士的灵魂人物。
+
+「卡萨布兰卡不止是电影里的黑白浪漫——还有Gnawa的低音在爵士里呼吸。」</itunes:summary>
+      <guid isPermaLink="false">6112372367bb9ea4d0c547d5732b3067</guid>
+      <pubDate>Sun, 10 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/hidden-in-casablanca-arabic-jazz-moroccan-melodies-mix-ideal.m4a" length="63281478" type="audio/mp4"/>
+      <itunes:duration>1:05:12</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Tunis Knows Jazz</title>
+      <description>Tunis Knows Jazz
+
+📍 Tunis • 突尼斯是阿拉伯世界最伟大的爵士乌德演奏家Anouar Brahem的故乡。Brahem将乌德带出传统语境，放入ECM唱片公司的欧洲爵士美学中，创造了极简主义的阿拉伯爵士诗篇。
+
+「突尼斯人用乌德说爵士——有时比小号更温柔，比钢琴更锋利。」
+
+🇹🇳 突尼斯  |  Duration: 1:30:40</description>
+      <itunes:summary>📍 Tunis • 突尼斯是阿拉伯世界最伟大的爵士乌德演奏家Anouar Brahem的故乡。Brahem将乌德带出传统语境，放入ECM唱片公司的欧洲爵士美学中，创造了极简主义的阿拉伯爵士诗篇。
+
+「突尼斯人用乌德说爵士——有时比小号更温柔，比钢琴更锋利。」</itunes:summary>
+      <guid isPermaLink="false">736157ed04cea8a91c1caac46c224bf9</guid>
+      <pubDate>Mon, 11 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/tunis-knows-jazz-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="87994725" type="audio/mp4"/>
+      <itunes:duration>1:30:40</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Midnight in Wahran</title>
+      <description>Midnight in Wahran
+
+📍 Wahran (Oran) • 瓦赫兰是阿尔及利亚Raï音乐的诞生地。Cheb Khaled从这里出发，将Raï推向了世界。Raï的即兴呼唱与爵士的scat唱法有着意外的亲和力——这是北非海岸最市井、最性感的音乐对话。
+
+「瓦赫兰的午夜属于Raï与爵士——酒精、汗水与自由。」
+
+🇩🇿 瓦赫兰  |  Duration: 1:15:16</description>
+      <itunes:summary>📍 Wahran (Oran) • 瓦赫兰是阿尔及利亚Raï音乐的诞生地。Cheb Khaled从这里出发，将Raï推向了世界。Raï的即兴呼唱与爵士的scat唱法有着意外的亲和力——这是北非海岸最市井、最性感的音乐对话。
+
+「瓦赫兰的午夜属于Raï与爵士——酒精、汗水与自由。」</itunes:summary>
+      <guid isPermaLink="false">ba21bfcb9caea6de757b30157edd313a</guid>
+      <pubDate>Tue, 12 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/midnight-in-wahran-arabic-jazz-fusion.m4a" length="73041719" type="audio/mp4"/>
+      <itunes:duration>1:15:16</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Remembering Old Sana'a</title>
+      <description>Remembering Old Sana'a
+
+📍 Sana'a • 也门的传统音乐Al-Ghina al-San'ani（萨那之歌）可追溯到14世纪，被联合国教科文组织列为非物质文化遗产。它以诗歌朗诵、单一旋律的反复变奏为特点——与爵士的modal jazz有奇妙的平行结构。
+
+「萨那之歌的音阶里，有一千零一个夜晚的故事在盘旋。」
+
+🇾🇪 萨那  |  Duration: 1:22:17</description>
+      <itunes:summary>📍 Sana'a • 也门的传统音乐Al-Ghina al-San'ani（萨那之歌）可追溯到14世纪，被联合国教科文组织列为非物质文化遗产。它以诗歌朗诵、单一旋律的反复变奏为特点——与爵士的modal jazz有奇妙的平行结构。
+
+「萨那之歌的音阶里，有一千零一个夜晚的故事在盘旋。」</itunes:summary>
+      <guid isPermaLink="false">dc5274591985ec06996907bec2b796c8</guid>
+      <pubDate>Wed, 13 May 2026 15:11:31 +0000</pubDate>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic/remembering-old-sanaa-arabic-jazz-ethereal-melodies-mix-idea.m4a" length="79843975" type="audio/mp4"/>
+      <itunes:duration>1:22:17</itunes:duration>
+      <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
