@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" width="1400" height="1400">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#0a2840"/>
+      <stop offset="50%" stop-color="#051426"/>
+      <stop offset="100%" stop-color="#020812"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d4a843"/>
+      <stop offset="50%" stop-color="#c9912a"/>
+      <stop offset="100%" stop-color="#a87d20"/>
+    </linearGradient>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#cd7f32"/>
+      <stop offset="100%" stop-color="#8b5e3c"/>
+    </linearGradient>
+    <!-- 8-pointed star template -->
+    <g id="star8">
+      <polygon points="0,-40 10,-10 40,0 10,10 0,40 -10,10 -40,0 -10,-10" fill="url(#gold)" opacity="0.3"/>
+    </g>
+    <!-- Mosque arch template -->
+    <g id="arch">
+      <path d="M0,80 Q0,-40 50,-80 Q100,-40 100,80" fill="none" stroke="url(#gold)" stroke-width="1.5" opacity="0.15"/>
+    </g>
+    <!-- Geometric interlace pattern -->
+    <pattern id="geo-pattern" x="0" y="0" width="140" height="140" patternUnits="userSpaceOnUse">
+      <rect width="140" height="140" fill="none"/>
+      <polygon points="70,0 140,70 70,140 0,70" fill="none" stroke="#d4a843" stroke-width="0.5" opacity="0.08"/>
+      <polygon points="35,0 105,0 140,35 140,105 105,140 35,140 0,105 0,35" fill="none" stroke="#cd7f32" stroke-width="0.3" opacity="0.06"/>
+      <line x1="0" y1="70" x2="140" y2="70" stroke="#d4a843" stroke-width="0.3" opacity="0.05"/>
+      <line x1="70" y1="0" x2="70" y2="140" stroke="#d4a843" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+  <rect width="1400" height="1400" fill="url(#geo-pattern)"/>
+
+  <!-- Outer border band -->
+  <rect x="20" y="20" width="1360" height="1360" rx="8" fill="none" stroke="url(#gold)" stroke-width="3" opacity="0.3"/>
+  <rect x="40" y="40" width="1320" height="1320" rx="6" fill="none" stroke="url(#gold)" stroke-width="1" opacity="0.15"/>
+
+  <!-- Decorative corner elements - arabesque arches -->
+  <use href="#arch" x="50" y="50" transform="scale(2)"/>
+  <use href="#arch" x="1150" y="50" transform="scale(2)"/>
+  <use href="#arch" x="50" y="1150" transform="scale(2) rotate(180)"/>
+  <use href="#arch" x="1150" y="1150" transform="scale(2) rotate(180)"/>
+
+  <!-- Large 8-pointed star - center -->
+  <g transform="translate(700,560)">
+    <polygon points="0,-280 70,-70 280,0 70,70 0,280 -70,70 -280,0 -70,-70" fill="url(#gold)" opacity="0.12"/>
+    <polygon points="0,-220 55,-55 220,0 55,55 0,220 -55,55 -220,0 -55,-55" fill="none" stroke="url(#gold)" stroke-width="1.5" opacity="0.25"/>
+    <polygon points="0,-155 38,-38 155,0 38,38 0,155 -38,38 -155,0 -38,-38" fill="none" stroke="url(#copper)" stroke-width="1" opacity="0.2"/>
+    <polygon points="0,-95 24,-24 95,0 24,24 0,95 -24,24 -95,0 -24,-24" fill="url(#gold)" opacity="0.08"/>
+  </g>
+
+  <!-- Small stars scattered -->
+  <use href="#star8" x="250" y="250" transform="scale(1.5)"/>
+  <use href="#star8" x="1050" y="250" transform="scale(1.5)"/>
+  <use href="#star8" x="250" y="1000" transform="scale(1.5)"/>
+  <use href="#star8" x="1050" y="1000" transform="scale(1.5)"/>
+
+  <!-- Crescent Moon -->
+  <g transform="translate(1060,200)">
+    <circle r="50" fill="url(#gold)" opacity="0.35"/>
+    <circle r="38" cx="-12" cy="-8" fill="#0a2840"/>
+  </g>
+
+  <!-- Mosque dome silhouette -->
+  <g transform="translate(700,1050)" opacity="0.08">
+    <ellipse cx="0" cy="-40" rx="120" ry="100" fill="none" stroke="#d4a843" stroke-width="2"/>
+    <path d="M-120,-40 Q-120,40 -80,40" fill="none" stroke="#d4a843" stroke-width="1.5"/>
+    <path d="M120,-40 Q120,40 80,40" fill="none" stroke="#d4a843" stroke-width="1.5"/>
+    <line x1="0" y1="-140" x2="0" y2="-120" stroke="#d4a843" stroke-width="1"/>
+    <circle cx="0" cy="-145" r="6" fill="none" stroke="#d4a843" stroke-width="1"/>
+  </g>
+
+  <!-- Title text - Arabic Nights Jazz -->
+  <g transform="translate(700,820)">
+    <!-- Decorative line above title -->
+    <line x1="-300" y1="-30" x2="-30" y2="-30" stroke="url(#gold)" stroke-width="1" opacity="0.4"/>
+    <circle cx="-30" cy="-30" r="4" fill="url(#gold)" opacity="0.4"/>
+    <circle cx="0" cy="-30" r="6" fill="url(#gold)" opacity="0.3"/>
+    <circle cx="30" cy="-30" r="4" fill="url(#gold)" opacity="0.4"/>
+    <line x1="30" y1="-30" x2="300" y2="-30" stroke="url(#gold)" stroke-width="1" opacity="0.4"/>
+    
+    <!-- Main title in Arabic -->
+    <text text-anchor="middle" font-family="Arial, sans-serif" font-weight="normal"
+          font-size="52" fill="url(#gold)" letter-spacing="3">
+      لَيَالٍ عَرَبِيَّة
+    </text>
+    
+    <!-- English subtitle -->
+    <text text-anchor="middle" font-family="Georgia, serif" font-weight="normal"
+          font-size="36" fill="#b8944f" letter-spacing="4" y="50">
+      ARABIC NIGHTS JAZZ
+    </text>
+    
+    <!-- Tagline -->
+    <text text-anchor="middle" font-family="Georgia, serif" font-weight="normal"
+          font-size="18" fill="#7a6a45" letter-spacing="6" y="85">
+      من القاهرة إلى بغداد
+    </text>
+    
+    <!-- Translation -->
+    <text text-anchor="middle" font-family="Georgia, serif" font-style="italic"
+          font-size="14" fill="#5a4a35" letter-spacing="2" y="110">
+      From Cairo to Baghdad — A Jazz Journey Across the Arab World
+    </text>
+
+    <!-- Decorative line below -->
+    <line x1="-280" y1="140" x2="-40" y2="140" stroke="url(#gold)" stroke-width="0.8" opacity="0.3"/>
+    <circle cx="-40" cy="140" r="3" fill="url(#gold)" opacity="0.3"/>
+    <circle cx="0" cy="140" r="5" fill="url(#gold)" opacity="0.2"/>
+    <circle cx="40" cy="140" r="3" fill="url(#gold)" opacity="0.3"/>
+    <line x1="40" y1="140" x2="280" y2="140" stroke="url(#gold)" stroke-width="0.8" opacity="0.3"/>
+  </g>
+
+  <!-- Side decorative bands -->
+  <g opacity="0.06">
+    <line x1="60" y1="200" x2="60" y2="1200" stroke="url(#gold)" stroke-width="1"/>
+    <line x1="1340" y1="200" x2="1340" y2="1200" stroke="url(#gold)" stroke-width="1"/>
+  </g>
+
+  <!-- Arabic geometric border repeated elements -->
+  <g opacity="0.04" fill="none" stroke="url(#gold)" stroke-width="0.8">
+    <rect x="70" y="70" width="1260" height="1260" rx="4"/>
+    <rect x="100" y="100" width="1200" height="1200" rx="4"/>
+  </g>
+</svg>

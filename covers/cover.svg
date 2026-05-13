@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" width="1400" height="1400">
+  <defs>
+    <!-- Dark night sky gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="50%" stop-color="#121e3a"/>
+      <stop offset="100%" stop-color="#1a1030"/>
+    </linearGradient>
+    
+    <!-- Moon glow -->
+    <radialGradient id="moonGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#f5e6c8" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#f5e6c8" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#f5e6c8" stop-opacity="0"/>
+    </radialGradient>
+    
+    <!-- Gold highlight -->
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d4a847"/>
+      <stop offset="50%" stop-color="#f0c860"/>
+      <stop offset="100%" stop-color="#b8862d"/>
+    </linearGradient>
+
+    <!-- Arabic geometric pattern - 8-pointed star -->
+    <pattern id="geoPattern" x="0" y="0" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="scale(0.4)">
+      <!-- 8-pointed star (khatam) -->
+      <rect width="120" height="120" fill="none"/>
+      <polygon points="60,5 70,40 105,50 70,60 60,95 50,60 15,50 50,40" 
+               fill="none" stroke="#c8a84a" stroke-width="0.8" opacity="0.25"/>
+      <polygon points="60,5 70,40 105,50 70,60 60,95 50,60 15,50 50,40" 
+               fill="#c8a84a" opacity="0.04"/>
+      <line x1="5" y1="60" x2="115" y2="60" stroke="#c8a84a" stroke-width="0.4" opacity="0.12"/>
+      <line x1="60" y1="5" x2="60" y2="115" stroke="#c8a84a" stroke-width="0.4" opacity="0.12"/>
+    </pattern>
+
+    <!-- Dome arch shape -->
+    <clipPath id="archClip">
+      <path d="M0,1000 Q700,-200 1400,1000 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+
+  <!-- Geometric pattern overlay -->
+  <rect width="1400" height="1400" fill="url(#geoPattern)" opacity="0.7"/>
+
+  <!-- Outer decorative border - Arabic geometric frame -->
+  <rect x="40" y="40" width="1320" height="1320" rx="15" ry="15"
+        fill="none" stroke="url(#gold)" stroke-width="3" opacity="0.6"/>
+  <rect x="55" y="55" width="1290" height="1290" rx="10" ry="10"
+        fill="none" stroke="url(#gold)" stroke-width="1" opacity="0.3"/>
+
+  <!-- Inner decorative band with repeating lozenges -->
+  <line x1="70" y1="100" x2="1330" y2="100" stroke="url(#gold)" stroke-width="0.8" opacity="0.2"/>
+  <line x1="70" y1="1300" x2="1330" y2="1300" stroke="url(#gold)" stroke-width="0.8" opacity="0.2"/>
+
+  <!-- Crescent moon at top center -->
+  <circle cx="700" cy="280" r="120" fill="url(#moonGlow)"/>
+  <path d="M700,200 A100,100 0 1,1 620,270 A80,80 0 1,0 700,200 Z" 
+        fill="#f5e6c8" opacity="0.9"/>
+  <circle cx="640" cy="240" r="6" fill="#e8d8a8" opacity="0.5"/>
+  <circle cx="670" cy="225" r="3" fill="#e8d8a8" opacity="0.4"/>
+  <circle cx="710" cy="215" r="4" fill="#e8d8a8" opacity="0.3"/>
+
+  <!-- Dome silhouette (mosque dome outline) -->
+  <path d="M500,600 Q700,320 900,600" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.25"/>
+  <path d="M480,600 Q700,280 920,600" fill="none" stroke="url(#gold)" stroke-width="0.6" opacity="0.12"/>
+
+  <!-- Arabesque archway frame -->
+  <path d="M300,900 Q700,200 1100,900" fill="none" stroke="url(#gold)" stroke-width="2" opacity="0.2"/>
+  <path d="M260,920 Q700,150 1140,920" fill="none" stroke="url(#gold)" stroke-width="0.8" opacity="0.1"/>
+
+  <!-- Arabic calligraphy - main title "Arabic Jazz Radio" -->
+  <!-- Arabic text: راديو الجاز العربي -->
+  <text x="700" y="520" text-anchor="middle" font-family="serif" font-size="80"
+        fill="url(#gold)" opacity="0.85">راديو الجاز العربي</text>
+
+  <!-- English subtitle -->
+  <text x="700" y="600" text-anchor="middle" font-family="sans-serif" 
+        font-weight="300" font-size="36" fill="#d4c8a8" opacity="0.7" letter-spacing="6">
+    ARABIC JAZZ RADIO
+  </text>
+
+  <!-- Decorative line under title -->
+  <line x1="350" y1="640" x2="1050" y2="640" stroke="url(#gold)" stroke-width="1" opacity="0.4"/>
+  <circle cx="700" cy="640" r="4" fill="url(#gold)" opacity="0.5"/>
+  <circle cx="400" cy="640" r="2" fill="url(#gold)" opacity="0.3"/>
+  <circle cx="1000" cy="640" r="2" fill="url(#gold)" opacity="0.3"/>
+
+  <!-- Oud/nay instrument silhouette as central motif -->
+  <g transform="translate(700,850)" opacity="0.3">
+    <!-- Oud body (pear-shaped) -->
+    <ellipse cx="0" cy="0" rx="80" ry="110" fill="none" stroke="#d4a847" stroke-width="1.5"/>
+    <ellipse cx="0" cy="0" rx="55" ry="90" fill="none" stroke="#d4a847" stroke-width="0.8"/>
+    <!-- Oud neck -->
+    <line x1="0" y1="-110" x2="0" y2="-170" stroke="#d4a847" stroke-width="2"/>
+    <line x1="0" y1="-110" x2="0" y2="-170" stroke="#d4a847" stroke-width="0.5" transform="rotate(-5)"/>
+    <line x1="0" y1="-110" x2="0" y2="-170" stroke="#d4a847" stroke-width="0.5" transform="rotate(5)"/>
+    <!-- Sound holes -->
+    <circle cx="0" cy="-10" r="10" fill="none" stroke="#d4a847" stroke-width="0.8"/>
+    <circle cx="0" cy="40" r="6" fill="none" stroke="#d4a847" stroke-width="0.5"/>
+    <circle cx="0" cy="-60" r="6" fill="none" stroke="#d4a847" stroke-width="0.5"/>
+  </g>
+
+  <!-- Stars scattered -->
+  <circle cx="200" cy="180" r="2" fill="#e8d8a8" opacity="0.6"/>
+  <circle cx="1150" cy="200" r="2.5" fill="#e8d8a8" opacity="0.5"/>
+  <circle cx="1300" cy="350" r="1.5" fill="#e8d8a8" opacity="0.4"/>
+  <circle cx="150" cy="400" r="1.5" fill="#e8d8a8" opacity="0.5"/>
+  <circle cx="1200" cy="130" r="1" fill="#e8d8a8" opacity="0.6"/>
+  <circle cx="250" cy="280" r="1" fill="#e8d8a8" opacity="0.4"/>
+  <circle cx="1050" cy="300" r="2" fill="#e8d8a8" opacity="0.3"/>
+  <circle cx="180" cy="550" r="1" fill="#e8d8a8" opacity="0.3"/>
+  <circle cx="1250" cy="500" r="1.5" fill="#e8d8a8" opacity="0.35"/>
+
+  <!-- Bottom decorative band - geometric repeat -->
+  <g opacity="0.15">
+    <line x1="70" y1="1280" x2="1330" y2="1280" stroke="url(#gold)" stroke-width="1"/>
+    <!-- Small diamond repeats -->
+    <polygon points="200,1270 210,1280 200,1290 190,1280" fill="url(#gold)" opacity="0.3"/>
+    <polygon points="350,1270 360,1280 350,1290 340,1280" fill="url(#gold)" opacity="0.3"/>
+    <polygon points="500,1270 510,1280 500,1290 490,1280" fill="url(#gold)" opacity="0.3"/>
+    <polygon points="650,1270 660,1280 650,1290 640,1280" fill="url(#gold)" opacity="0.3"/>
+    <polygon points="700,1270 710,1280 700,1290 690,1280" fill="url(#gold)" opacity="0.3"/>
+    <polygon points="750,1270 760,1280 750,1290 740,1280" fill="url(#gold)" opacity="0.3"/>
+    <polygon points="900,1270 910,1280 900,1290 890,1280" fill="url(#gold)" opacity="0.3"/>
+    <polygon points="1050,1270 1060,1280 1050,1290 1040,1280" fill="url(#gold)" opacity="0.3"/>
+    <polygon points="1200,1270 1210,1280 1200,1290 1190,1280" fill="url(#gold)" opacity="0.3"/>
+  </g>
+
+  <!-- Bottom text line -->
+  <text x="700" y="1340" text-anchor="middle" font-family="sans-serif"
+        font-size="16" fill="#c8a84a" opacity="0.4" letter-spacing="3">
+    كُلّ شَهْر مَدِينَة • كُلّ حَلْقَة رِحْلَة
+  </text>
+  <text x="700" y="1365" text-anchor="middle" font-family="sans-serif"
+        font-size="12" fill="#c8a84a" opacity="0.3" letter-spacing="2">
+    Every city a story • Every episode a journey
+  </text>
+</svg>

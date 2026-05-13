@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" width="1400" height="1400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1628"/>
+      <stop offset="50%" style="stop-color:#0f2a3f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="moonGlow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%" gradientUnits="objectBoundingBox">
+      <stop offset="0%" style="stop-color:#f0d080;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#f0d080;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+
+  <!-- Mosque dome silhouette - bottom left -->
+  <g transform="translate(80, 1050)">
+    <!-- Main dome -->
+    <ellipse cx="200" cy="150" rx="180" ry="100" fill="#1a2a40" stroke="#2a4a6a" stroke-width="1.5"/>
+    <!-- Dome point -->
+    <path d="M185 52 L200 15 L215 52" fill="#1a2a40" stroke="#c9a84c" stroke-width="1.5"/>
+    <!-- Crescent on dome -->
+    <circle cx="225" cy="45" r="18" fill="none" stroke="#c9a84c" stroke-width="1.5"/>
+    <circle cx="232" cy="40" r="15" fill="#0a1628"/>
+    <!-- Half arches under dome -->
+    <path d="M60 220 Q130 190 200 220" fill="none" stroke="#2a4a6a" stroke-width="2"/>
+    <path d="M200 220 Q270 190 340 220" fill="none" stroke="#2a4a6a" stroke-width="2"/>
+  </g>
+
+  <!-- Smaller dome - bottom right -->
+  <g transform="translate(1050, 1050)">
+    <ellipse cx="120" cy="130" rx="110" ry="70" fill="#1a2a40" stroke="#2a4a6a" stroke-width="1.5"/>
+    <path d="M108 62 L120 20 L132 62" fill="#1a2a40" stroke="#c9a84c" stroke-width="1.2"/>
+  </g>
+
+  <!-- Minaret silhouettes -->
+  <g fill="#1a2a40" stroke="#1a2a40">
+    <!-- Left minaret -->
+    <rect x="10" y="1010" width="20" height="350" rx="3"/>
+    <rect x="5" y="1000" width="30" height="15" rx="2"/>
+    <line x1="20" y1="1000" x2="20" y2="980" stroke="#c9a84c" stroke-width="2"/>
+    <!-- Right minaret -->
+    <rect x="1360" y="1010" width="20" height="350" rx="3"/>
+    <rect x="1355" y="1000" width="30" height="15" rx="2"/>
+    <line x1="1370" y1="1000" x2="1370" y2="980" stroke="#c9a84c" stroke-width="2"/>
+  </g>
+
+  <!-- Crescent moon - top right -->
+  <circle cx="1100" cy="200" r="90" fill="none" stroke="#f0d080" stroke-width="3" opacity="0.4"/>
+  <circle cx="1070" cy="185" r="70" fill="#0a1628"/>
+  <circle cx="1100" cy="200" r="90" fill="url(#moonGlow)"/>
+
+  <!-- Stars / sparkles -->
+  <g fill="#f0d080" opacity="0.6">
+    <circle cx="300" cy="280" r="2"/><circle cx="500" cy="150" r="1.5"/>
+    <circle cx="800" cy="100" r="2"/><circle cx="600" cy="250" r="1"/>
+    <circle cx="950" cy="300" r="1.5"/><circle cx="400" cy="350" r="1"/>
+    <circle cx="1200" cy="120" r="1.5"/><circle cx="250" cy="400" r="1"/>
+  </g>
+
+  <!-- Arabic geometric star pattern (8-pointed star, central) -->
+  <g transform="translate(700, 400)" fill="none" stroke="#c9a84c" stroke-width="1.5" opacity="0.5">
+    <polygon points="0,-180 42,-54 180,-54 67,21 111,144 0,67 -111,144 -67,21 -180,-54 -42,-54"/>
+    <polygon points="0,-120 28,-36 120,-36 45,14 74,96 0,45 -74,96 -45,14 -120,-36 -28,-36"/>
+    <polygon points="0,-70 16,-21 70,-21 26,8 43,56 0,26 -43,56 -26,8 -70,-21 -16,-21"/>
+    <path d="M0,-180 Q90,-90 180,0 Q90,90 0,180 Q-90,90 -180,0 Q-90,-90 0,-180Z" stroke-width="0.8" opacity="0.3"/>
+    <path d="M0,-130 Q65,-65 130,0 Q65,65 0,130 Q-65,65 -130,0 Q-65,-65 0,-130Z" stroke-width="0.8" opacity="0.3"/>
+  </g>
+
+  <!-- Inner geometric pattern - squares within circle -->
+  <g transform="translate(700, 400)" fill="none" stroke="#c9a84c" stroke-width="0.8" opacity="0.25">
+    <rect x="-100" y="-100" width="200" height="200" transform="rotate(45)"/>
+    <rect x="-80" y="-80" width="160" height="160" transform="rotate(45)"/>
+    <rect x="-60" y="-60" width="120" height="120" transform="rotate(45)"/>
+  </g>
+
+  <!-- Decorative border - Islamic geometric band -->
+  <g transform="translate(700, 780)" fill="none" stroke="#c9a84c" stroke-width="1" opacity="0.3">
+    <!-- Muqarnas-style horizontal band -->
+    <path d="M-350,-8 L-300,-8 L-280,-25 L-260,-8 L-240,-25 L-220,-8 L-200,-25 L-180,-8 L-160,-25 L-140,-8 L-120,-25 L-100,-8 L-80,-25 L-60,-8 L-40,-25 L-20,-8 L0,-25 L20,-8 L40,-25 L60,-8 L80,-25 L100,-8 L120,-25 L140,-8 L160,-25 L180,-8 L200,-25 L220,-8 L240,-25 L260,-8 L280,-25 L300,-8 L350,-8"/>
+  </g>
+
+  <!-- Title: 阿拉伯爵士电台 -->
+  <text x="700" y="550" text-anchor="middle" font-family="Georgia, 'Noto Naskh Arabic', serif" font-size="78" fill="#e8d5a3" letter-spacing="12">阿拉伯爵士电台</text>
+
+  <!-- Subtitle: Arabic Nights Jazz -->
+  <text x="700" y="620" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#c9a84c" letter-spacing="6" font-style="italic">Arabic Nights Jazz</text>
+
+  <!-- Subtitle: 从开罗到巴格达 -->
+  <text x="700" y="680" text-anchor="middle" font-family="'Trebuchet MS', sans-serif" font-size="24" fill="#8a9bb5" letter-spacing="4">من القاهرة إلى بغداد</text>
+
+  <!-- Decorative line under subtitle -->
+  <g transform="translate(700, 710)" stroke="#c9a84c" stroke-width="1" opacity="0.4">
+    <line x1="-120" y1="0" x2="-20" y2="0"/>
+    <circle cx="0" cy="0" r="3" fill="#c9a84c"/>
+    <line x1="20" y1="0" x2="120" y2="0"/>
+  </g>
+
+  <!-- Bottom decorative band -->
+  <g transform="translate(700, 880)" fill="none" stroke="#c9a84c" stroke-width="2" opacity="0.2">
+    <path d="M-200,0 Q-150,-15 -100,0 Q-50,15 0,0 Q50,-15 100,0 Q150,15 200,0"/>
+  </g>
+
+  <!-- Collection note -->
+  <text x="700" y="940" text-anchor="middle" font-family="'Trebuchet MS', sans-serif" font-size="16" fill="#5a6a7a" letter-spacing="3">SELECTED FROM FOUR COLLECTIONS</text>
+</svg>
