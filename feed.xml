@@ -15,9 +15,21 @@
   </itunes:category>
   <itunes:explicit>no</itunes:explicit>
   <atom:link href="https://luxuguang-leo.github.io/arabic-jazz-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 13 May 2026 15:16:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 17:05:23 +0000</lastBuildDate>
   <pubDate>Wed, 13 May 2026 15:16:38 +0000</pubDate>
-  <item>
+    <item>
+    <title>阿拉伯爵士电台 · 先导集 — 欢迎收听</title>
+    <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/s0-intro.m4a" length="1203866" type="audio/mp4"/>
+    <guid isPermaLink="false">8a21727a185cb04e5a0f1ec2c4b79645</guid>
+    <pubDate>Tue, 19 May 2026 17:05:23 +0000</pubDate>
+    <itunes:duration>0:55</itunes:duration>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:season>0</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <description>阿拉伯爵士电台 · 先导集&#10;&#10;我是Leo。欢迎收听阿拉伯爵士电台。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。这些音频由AI生成，已获本人授权。播客也由AI Agent自动发布。希望你喜欢。&#10;&#10;Hi, I'm Leo. Welcome to Arabic Jazz Radio. A new show, independent from Persian Jazz. Arabic jazz stretches from Cairo to Casablanca, from Beirut to Baghdad. Each city has its own sound. Hope you enjoy the journey.&#10;&#10;Collection: original  |  Duration: 0:55</description>
+    <itunes:summary>阿拉伯爵士电台 · 先导集 — 欢迎收听。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。</itunes:summary>
+  </item>
+<item>
     <title>🇪🇬 尼罗河爵士·开罗 — 尼罗河畔·开罗深夜曲</title>
     <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/cairo-after-dark-arabic-melodies-jazz-fusion-mix-ideal-for-l.m4a" length="60119230" type="audio/mp4"/>
     <guid isPermaLink="false">12cc3f85a4d0c572c5a23fa546365d4a</guid>
