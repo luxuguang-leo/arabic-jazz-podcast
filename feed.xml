@@ -12,12 +12,12 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://luxuguang-leo.github.io/arabic-jazz-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 19 May 2026 17:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:30:00 +0000</lastBuildDate>
     <pubDate>Wed, 13 May 2026 15:16:38 +0000</pubDate>
 
-    <!-- S0 - Intro Episode -->
+    <!-- S0 - Intro -->
     <item>
-      <title>阿拉伯爵士电台 &#xb7; 先导集 &#x2014; 欢迎收听</title>
+      <title>阿拉伯爵士电台 · intro</title>
       <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/s0-intro.m4a" length="1203866" type="audio/mp4"/>
       <guid isPermaLink="false">8a21727a185cb04e5a0f1ec2c4b79645</guid>
       <pubDate>Tue, 19 May 2026 17:05:23 +0000</pubDate>
@@ -25,140 +25,198 @@
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:season>0</itunes:season>
       <itunes:episode>0</itunes:episode>
-      <description>阿拉伯爵士电台 &#xb7; 先导集&#xa;&#xa;我是Leo。欢迎收听阿拉伯爵士电台。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。这些音频由AI生成，已获本人授权。播客也由AI Agent自动发布。希望你喜欢。&#xa;&#xa;Hi, I&apos;m Leo. Welcome to Arabic Jazz Radio. A new show, independent from Persian Jazz. Arabic jazz stretches from Cairo to Casablanca, from Beirut to Baghdad. Each city has its own sound. Hope you enjoy the journey.&#xa;&#xa;Collection: original  |  Duration: 0:55</description>
-      <itunes:summary>阿拉伯爵士电台 &#xb7; 先导集 &#x2014; 欢迎收听。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。</itunes:summary>
+      <description>阿拉伯爵士电台 · intro&#10;&#10;我是Leo。欢迎收听阿拉伯爵士电台。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。这些音频由AI生成，已获本人授权。播客也由AI Agent自动发布。</description>
+      <itunes:summary>阿拉伯爵士电台 · intro。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。</itunes:summary>
     </item>
 
-    <!-- Episode 1: Cairo -->
+    <!-- S1 Nile Jazz: 5 eps -->
     <item>
-      <title>&#x1f1ea;&#x1f1ec; 尼罗河爵士&#xb7;开罗 &#x2014; 尼罗河畔&#xb7;开罗深夜曲</title>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/cairo-after-dark-arabic-melodies-jazz-fusion-mix-ideal-for-l.m4a" length="60119230" type="audio/mp4"/>
+      <title>🇪🇬 尼罗河爵士·开罗 — 开罗·塔尔巴之夜</title>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/cairo-tarab-nights-arabic-jazz-egyptian-tarab-mix-ideal-for-late-nig.m4a" length="78700503" type="audio/mp4"/>
       <guid isPermaLink="false">12cc3f85a4d0c572c5a23fa546365d4a</guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
+      <itunes:duration>1:21:06</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>Cairo After Dark | Arabic Melodies &amp; Jazz Fusion Mix | Ideal For Late Night &amp; Focus | Collection: NafasJazz</description>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>Cairo Tarab Nights · 尼罗河爵士·开罗 — 开罗·塔尔巴之夜&#10;&#10;Collection: NafasJazz  |  Duration: 1:21:06</description>
+      <itunes:summary>开罗·塔尔巴之夜。Tarab是阿拉伯音乐独有的概念：不是听歌，是入境、迷醉。</itunes:summary>
     </item>
 
-    <!-- Episode 2: Alexandria -->
     <item>
-      <title>&#x1f1ea;&#x1f1ec; 尼罗河爵士&#xb7;亚历山大 &#x2014; 地中海港&#xb7;亚历山大的夜</title>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/a-jazz-evening-in-alexandria-arabic-jazz-fusion.m4a" length="65318374" type="audio/mp4"/>
+      <title>🇪🇬 尼罗河爵士·吉萨 — 吉萨·金字塔月光</title>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/moon-over-giza-egyptian-jazz-arabic-melodies-mix-ideal-for-work-late-n.m4a" length="66760240" type="audio/mp4"/>
+      <guid isPermaLink="false">a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1:35:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <description>Moon Over Giza · 尼罗河爵士·吉萨 — 吉萨·金字塔月光&#10;&#10;Collection: SaffronJazzLounge  |  Duration: 1:35:41</description>
+      <itunes:summary>吉萨·金字塔月光。月光洒在三大金字塔上，沙漠的风穿过四千年的石头。</itunes:summary>
+    </item>
+
+    <item>
+      <title>🇪🇬 尼罗河爵士·卢克索 — 卢克索·底比斯海市蜃楼</title>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/luxor-jazz-mirage-egyptian-jazz-arabic-melodies-mix-ideal-for-late-nig.m4a" length="56271671" type="audio/mp4"/>
+      <guid isPermaLink="false">b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7</guid>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:57:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <description>Luxor Jazz Mirage · 尼罗河爵士·卢克索 — 卢克索·底比斯海市蜃楼&#10;&#10;Collection: NafasJazz  |  Duration: 0:57:59</description>
+      <itunes:summary>卢克索·底比斯海市蜃楼。在帝王谷与卡纳克神庙之间听到的爵士。</itunes:summary>
+    </item>
+
+    <item>
+      <title>🇪🇬 尼罗河爵士·亚历山大 — 亚历山大·星空下的爵士</title>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/jazz-night-under-the-stars-of-alexandria-arabic-jazz-fusion.m4a" length="60958276" type="audio/mp4"/>
       <guid isPermaLink="false">d6f9c793b20c1a488ed958aff0d98a12</guid>
-      <pubDate>Wed, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1:02:49</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>A Jazz Evening in Alexandria | Arabic Jazz Fusion | Collection: NafasJazz</description>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <description>Jazz Night Under the Stars of Alexandria · 尼罗河爵士·亚历山大 — 亚历山大·星空下的爵士&#10;&#10;Collection: NafasJazz  |  Duration: 1:02:49</description>
+      <itunes:summary>亚历山大·星空下的爵士。地中海港口的爵士之夜——钢琴像浪，管乐像鸥。</itunes:summary>
     </item>
 
-    <!-- Episode 3: Beirut 1/4 -->
     <item>
-      <title>&#x1f1f1;&#x1f1e7;&#x200d;&#x1f1f8;&#x1f1fe; 黎凡特&#xb7;贝鲁特1/4 &#x2014; 黄金年代&#xb7;哈姆拉街的爵士</title>
+      <title>🇪🇬 尼罗河爵士·尼罗河 — 尼罗河畔·静谧夜</title>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/quiet-nights-by-the-nile-egyptian-jazz-arabic-melodies-mix-ideal-for-l.m4a" length="65591281" type="audio/mp4"/>
+      <guid isPermaLink="false">c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1:07:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <description>Quiet Nights by the Nile · 尼罗河爵士·尼罗河 — 尼罗河畔·静谧夜&#10;&#10;Collection: NafasJazz  |  Duration: 1:07:36</description>
+      <itunes:summary>尼罗河畔·静谧夜。尼罗河爵士终曲——一条河的爵士，流淌了七千年。</itunes:summary>
+    </item>
+
+    <!-- S2 Levant -->
+    <item>
+      <title>🇱🇧🇸🇾 黎凡特·贝鲁特1/4 — 黄金年代·哈姆拉街的爵士</title>
       <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/beirut-jazz-experience-lebanese-jazz-arabic-melodies-mix-ide.m4a" length="66567319" type="audio/mp4"/>
       <guid isPermaLink="false">031c81db59bd8c88a089087cb7ff28f4</guid>
-      <pubDate>Wed, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>Beirut Jazz Experience | Lebanese Jazz &amp; Arabic Melodies Mix | Ideal For Late Night &amp; Focus | Collection: NafasJazz</description>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>Beirut Jazz Experience · 黎凡特·贝鲁特1/4 — 黄金年代·哈姆拉街的爵士&#10;&#10;Collection: NafasJazz  |  Duration: </description>
     </item>
 
-    <!-- Episode 4: Beirut 2/4 -->
     <item>
-      <title>&#x1f1f1;&#x1f1e7;&#x200d;&#x1f1f8;&#x1f1fe; 黎凡特&#xb7;贝鲁特2/4 &#x2014; 地下爵士与电子之夜</title>
+      <title>🇱🇧🇸🇾 黎凡特·贝鲁特2/4 — 地下爵士与电子之夜</title>
       <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/beirut-nights-unspoken-smooth-arabic-jazz-oud-for-deep-focus.m4a" length="59120344" type="audio/mp4"/>
       <guid isPermaLink="false">8856437e481e0094767951fef747b898</guid>
-      <pubDate>Wed, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>Beirut Nights Unspoken | Smooth Arabic Jazz &amp; Oud for Deep Focus | Collection: SaffronJazzLounge</description>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <description>Beirut Nights Unspoken · 黎凡特·贝鲁特2/4 — 地下爵士与电子之夜&#10;&#10;Collection: SaffronJazzLounge  |  Duration: </description>
     </item>
 
-    <!-- Episode 5: Beirut 3/4 -->
     <item>
-      <title>&#x1f1f1;&#x1f1e7;&#x200d;&#x1f1f8;&#x1f1fe; 黎凡特&#xb7;贝鲁特3/4 &#x2014; 弹孔墙与咖啡馆即兴</title>
+      <title>🇱🇧🇸🇾 黎凡特·贝鲁特3/4 — 弹孔墙与咖啡馆即兴</title>
       <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/beirut-unsaid-lebanese-jazz-arabic-melodies-mix-ideal-for-la.m4a" length="55872950" type="audio/mp4"/>
       <guid isPermaLink="false">9fdebf813722ff70c4f030e907ed806f</guid>
-      <pubDate>Wed, 05 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description>Beirut, Unsaid | Lebanese Jazz &amp; Arabic Melodies Mix | Ideal For Late Night &amp; Focus | Collection: NafasJazz</description>
-    </item>
-
-    <!-- Episode 6: Beirut 4/4 -->
-    <item>
-      <title>&#x1f1f1;&#x1f1e7;&#x200d;&#x1f1f8;&#x1f1fe; 黎凡特&#xb7;贝鲁特4/4 &#x2014; 乌德琴&#xb7;深夜lo-fi</title>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/arabian-oud-lofi-beirut-nights-&#x644;&#x64a;&#x627;&#x644;&#x64a;&#x628;&#x64a;&#x631;&#x648;&#x62a;-&#x639;&#x648;&#x62f;.m4a" length="76757358" type="audio/mp4"/>
-      <guid isPermaLink="false">594a49a4d2ca5d200933f3edfc1cf6c6</guid>
-      <pubDate>Wed, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description>Arabian Oud Lofi Beirut Nights | Collection: SantonoNoise</description>
-    </item>
-
-    <!-- Episode 7: Damascus -->
-    <item>
-      <title>&#x1f1f8;&#x1f1fe; 黎凡特&#xb7;大马士革 &#x2014; 大马士革&#xb7;未言之语</title>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/damascus-unsaid-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="88852982" type="audio/mp4"/>
-      <guid isPermaLink="false">b6935bb21b67fc5c12b8908f6e2e63bf</guid>
-      <pubDate>Wed, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description>Damascus, Unsaid | Arabic Jazz &amp; Ethereal Melodies Mix | Ideal For Work &amp; Late Night Focus | Collection: NafasJazz</description>
-    </item>
-
-    <!-- Episode 8: Baghdad -->
-    <item>
-      <title>&#x1f1ee;&#x1f1f6; 两河爵士&#xb7;巴格达 &#x2014; 两河之间&#xb7;底格里斯蓝调</title>
-      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/echoes-of-baghdad-iraqi-maqam-western-jazz-fusion-&#x627;&#x644;&#x62c;&#x627;&#x632;-&#x627;&#x644;&#x639;&#x631;&#x627;&#x642;&#x64a;.m4a" length="33511201" type="audio/mp4"/>
-      <guid isPermaLink="false">8e5fc4ac4ad9eba9fb57d2aceb5c0404</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>Echoes of Baghdad | Iraqi Maqam &amp; Western Jazz Fusion | Collection: ArobiyyahJazz</description>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <description>Beirut, Unsaid · 黎凡特·贝鲁特3/4 — 弹孔墙与咖啡馆即兴&#10;&#10;Collection: NafasJazz  |  Duration: </description>
     </item>
 
-    <!-- Episode 9: Casablanca -->
     <item>
-      <title>&#x1f1f2;&#x1f1e6; 马格里布&#xb7;卡萨布兰卡 &#x2014; 卡萨布兰卡&#xb7;撒哈拉的低语</title>
+      <title>🇱🇧🇸🇾 黎凡特·贝鲁特4/4 — 乌德琴·深夜lo-fi</title>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/arabian-oud-lofi-beirut-nights.m4a" length="76757358" type="audio/mp4"/>
+      <guid isPermaLink="false">594a49a4d2ca5d200933f3edfc1cf6c6</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <description>Arabian Oud Lofi Beirut Nights · 黎凡特·贝鲁特4/4 — 乌德琴·深夜lo-fi&#10;&#10;Collection: SantonoNoise  |  Duration: </description>
+    </item>
+
+    <item>
+      <title>🇸🇾 黎凡特·大马士革 — 大马士革·未言之语</title>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/damascus-unsaid-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="88852982" type="audio/mp4"/>
+      <guid isPermaLink="false">b6935bb21b67fc5c12b8908f6e2e63bf</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <description>Damascus, Unsaid · 黎凡特·大马士革 — 大马士革·未言之语&#10;&#10;Collection: NafasJazz  |  Duration: </description>
+    </item>
+
+    <!-- S3 Mesopotamia -->
+    <item>
+      <title>🇮🇶 两河爵士·巴格达 — 两河之间·底格里斯蓝调</title>
+      <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/echoes-of-baghdad-iraqi-maqam-western-jazz-fusion.m4a" length="33511201" type="audio/mp4"/>
+      <guid isPermaLink="false">8e5fc4ac4ad9eba9fb57d2aceb5c0404</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>Echoes of Baghdad · 两河爵士·巴格达 — 两河之间·底格里斯蓝调&#10;&#10;Collection: ArobiyyahJazz  |  Duration: </description>
+    </item>
+
+    <!-- S4 Maghreb -->
+    <item>
+      <title>🇲🇦 马格里布·卡萨布兰卡 — 卡萨布兰卡·撒哈拉的低语</title>
       <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/hidden-in-casablanca-arabic-jazz-moroccan-melodies-mix-ideal.m4a" length="63281478" type="audio/mp4"/>
       <guid isPermaLink="false">3a5e9cce86cb259893dccda5b9f0beb5</guid>
-      <pubDate>Wed, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>Hidden In Casablanca | Arabic Jazz &amp; Moroccan Melodies Mix | Ideal For Late Night &amp; Focus | Collection: NafasJazz</description>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>Hidden In Casablanca · 马格里布·卡萨布兰卡 — 卡萨布兰卡·撒哈拉的低语&#10;&#10;Collection: NafasJazz  |  Duration: </description>
     </item>
 
-    <!-- Episode 10: Tunis -->
     <item>
-      <title>&#x1f1f9;&#x1f1f3; 马格里布&#xb7;突尼斯 &#x2014; 迦太基&#xb7;乌德琴与寂静</title>
+      <title>🇹🇳 马格里布·突尼斯 — 迦太基·乌德琴与寂静</title>
       <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/tunis-knows-jazz-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="87994725" type="audio/mp4"/>
       <guid isPermaLink="false">8f5f9435da5acd1e7c82aa3f59a3cd44</guid>
-      <pubDate>Wed, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>Tunis Knows Jazz | Arabic Jazz &amp; Ethereal Melodies Mix | Ideal For Work &amp; Late Night Focus | Collection: NafasJazz</description>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <description>Tunis Knows Jazz · 马格里布·突尼斯 — 迦太基·乌德琴与寂静&#10;&#10;Collection: NafasJazz  |  Duration: </description>
     </item>
 
-    <!-- Episode 11: Wahran -->
     <item>
-      <title>&#x1f1e9;&#x1f1ff; 马格里布&#xb7;瓦赫兰 &#x2014; 瓦赫兰港&#xb7;醉酒的爵士号</title>
+      <title>🇩🇿 马格里布·瓦赫兰 — 瓦赫兰港·醉酒的爵士号</title>
       <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/midnight-in-wahran-oran-algerian-jazz-rai-fusion-mix-ideal.m4a" length="71425639" type="audio/mp4"/>
       <guid isPermaLink="false">0a35495a74b9f031048814b8d25c23eb</guid>
-      <pubDate>Wed, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>Midnight in Wahran | Oran Algerian Jazz &amp; Rai Fusion Mix | Ideal For Late Night &amp; Focus | Collection: NafasJazz</description>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <description>Midnight in Wahran · 马格里布·瓦赫兰 — 瓦赫兰港·醉酒的爵士号&#10;&#10;Collection: NafasJazz  |  Duration: </description>
     </item>
 
-    <!-- Episode 12: Sanaa -->
+    <!-- S5 Extra -->
     <item>
-      <title>&#x1f1fe;&#x1f1ea; 番外&#xb7;萨那 &#x2014; 萨那&#xb7;时间停驻的城</title>
+      <title>🇾🇪 番外·萨那 — 萨那·时间停驻的城</title>
       <enclosure url="http://tejnectvq.hd-bkt.clouddn.com/arabic-jazz/remembering-old-sanaa-yemeni-jazz-fusion-smooth-arabic-melo.m4a" length="41625956" type="audio/mp4"/>
       <guid isPermaLink="false">7a6a9e40dabe01ce7f61c69fe1842f50</guid>
-      <pubDate>Wed, 12 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <description>Remembering Old Sana'a | Yemeni Jazz Fusion | Smooth Arabic Melodies | Collection: NafasJazz</description>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>Remembering Old Sana'a · 番外·萨那 — 萨那·时间停驻的城&#10;&#10;Collection: NafasJazz  |  Duration: </description>
     </item>
 
   </channel>
