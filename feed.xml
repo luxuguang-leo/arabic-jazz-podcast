@@ -12,7 +12,7 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://luxuguang-leo.github.io/arabic-jazz-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 03 Jun 2026 18:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 02:30:00 +0000</lastBuildDate>
     <pubDate>Wed, 13 May 2026 15:16:38 +0000</pubDate>
 
     <!-- S0 - Intro -->
@@ -154,69 +154,6 @@
       <itunes:season>2</itunes:season>
       <itunes:episode>5</itunes:episode>
       <description>Damascus, Unsaid · 黎凡特·大马士革 — 大马士革·未言之语&#10;&#10;Collection: NafasJazz  |  Duration: </description>
-    </item>
-
-    <!-- S3 Mesopotamia -->
-    <item>
-      <title>🇮🇶 两河爵士·巴格达 — 两河之间·底格里斯蓝调</title>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/echoes-of-baghdad-iraqi-maqam-western-jazz-fusion-الجاز-العر.m4a" length="33511201" type="audio/mp4"/>
-      <guid isPermaLink="false">8e5fc4ac4ad9eba9fb57d2aceb5c0404</guid>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>3</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <description>Echoes of Baghdad · 两河爵士·巴格达 — 两河之间·底格里斯蓝调&#10;&#10;Collection: ArobiyyahJazz  |  Duration: </description>
-    </item>
-
-    <!-- S4 Maghreb -->
-    <item>
-      <title>🇲🇦 马格里布·卡萨布兰卡 — 卡萨布兰卡·撒哈拉的低语</title>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/hidden-in-casablanca-arabic-jazz-moroccan-melodies-mix-ideal.m4a" length="63281478" type="audio/mp4"/>
-      <guid isPermaLink="false">3a5e9cce86cb259893dccda5b9f0beb5</guid>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <description>Hidden In Casablanca · 马格里布·卡萨布兰卡 — 卡萨布兰卡·撒哈拉的低语&#10;&#10;Collection: NafasJazz  |  Duration: </description>
-    </item>
-
-    <item>
-      <title>🇹🇳 马格里布·突尼斯 — 迦太基·乌德琴与寂静</title>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/tunis-knows-jazz-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="87994725" type="audio/mp4"/>
-      <guid isPermaLink="false">8f5f9435da5acd1e7c82aa3f59a3cd44</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <description>Tunis Knows Jazz · 马格里布·突尼斯 — 迦太基·乌德琴与寂静&#10;&#10;Collection: NafasJazz  |  Duration: </description>
-    </item>
-
-    <item>
-      <title>🇩🇿 马格里布·瓦赫兰 — 瓦赫兰港·醉酒的爵士号</title>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/midnight-in-wahran-arabic-jazz-fusion.m4a" length="71425639" type="audio/mp4"/>
-      <guid isPermaLink="false">0a35495a74b9f031048814b8d25c23eb</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <description>Midnight in Wahran · 马格里布·瓦赫兰 — 瓦赫兰港·醉酒的爵士号&#10;&#10;Collection: NafasJazz  |  Duration: </description>
-    </item>
-
-    <!-- S5 Extra -->
-    <item>
-      <title>🇾🇪 番外·萨那 — 萨那·时间停驻的城</title>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/remembering-old-sanaa-arabic-jazz-ethereal-melodies-mix-idea.m4a" length="41625956" type="audio/mp4"/>
-      <guid isPermaLink="false">7a6a9e40dabe01ce7f61c69fe1842f50</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>5</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <description>Remembering Old Sana'a · 番外·萨那 — 萨那·时间停驻的城&#10;&#10;Collection: NafasJazz  |  Duration: </description>
     </item>
 
   </channel>
