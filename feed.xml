@@ -3,7 +3,7 @@
   <channel>
     <title>阿拉伯爵士电台 Arabic Jazz Radio</title>
     <link>https://luxuguang-leo.github.io/arabic-jazz-podcast</link>
-    <description>从开罗到大马士革，从贝鲁特到卡萨布兰卡——阿拉伯世界的爵士之音。每周一集，精选168集收藏。</description>
+    <description>从开罗到大马士革，从贝鲁特到卡萨布兰卡——阿拉伯世界的爵士之音。</description>
     <language>zh-cn</language>
     <itunes:author>Leo</itunes:author>
     <itunes:image href="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-cover.jpg"/>
@@ -12,149 +12,221 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://luxuguang-leo.github.io/arabic-jazz-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 04 Jun 2026 02:30:00 +0000</lastBuildDate>
-    <pubDate>Wed, 13 May 2026 15:16:38 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:30:00 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
 
-    <!-- S0 - Intro -->
     <item>
-      <title>阿拉伯爵士电台 · intro</title>
+      <title>S0 阿拉伯爵士电台 · intro</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/s0-intro.m4a" length="1203866" type="audio/mp4"/>
       <guid isPermaLink="false">8a21727a185cb04e5a0f1ec2c4b79645</guid>
-      <pubDate>Tue, 19 May 2026 17:05:23 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
       <itunes:duration>0:55</itunes:duration>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:season>0</itunes:season>
       <itunes:episode>0</itunes:episode>
-      <description>阿拉伯爵士电台 · intro&#10;&#10;我是Leo。欢迎收听阿拉伯爵士电台。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。这些音频由AI生成，已获本人授权。播客也由AI Agent自动发布。</description>
+      <description>阿拉伯爵士电台 · intro&#10;&#10;我是Leo。欢迎收听阿拉伯爵士电台。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。</description>
       <itunes:summary>阿拉伯爵士电台 · intro。这是我的第二个实验播客项目，旨在探索借助AI工具，简化自动化播客流程。</itunes:summary>
     </item>
 
-    <!-- S1 Nile Jazz: 5 eps -->
     <item>
-      <title>🇪🇬 尼罗河爵士·开罗 — 开罗·塔尔巴之夜</title>
+      <title>S1.1 🇪🇬 尼罗河爵士·开罗 — 塔尔巴之夜 · Cairo Tarab Nights · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/cairo-tarab-nights-arabic-jazz-egyptian-tarab-mix-ideal-for-late-nig.m4a" length="78700503" type="audio/mp4"/>
       <guid isPermaLink="false">12cc3f85a4d0c572c5a23fa546365d4a</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
       <itunes:duration>1:21:06</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <description>Cairo Tarab Nights · 尼罗河爵士·开罗 — 开罗·塔尔巴之夜&#10;&#10;Collection: NafasJazz  |  Duration: 1:21:06</description>
-      <itunes:summary>开罗·塔尔巴之夜。Tarab是阿拉伯音乐独有的概念：不是听歌，是入境、迷醉。</itunes:summary>
+      <description>S1.1 开罗·塔尔巴之夜&#10;&#10;尼罗河爵士——埃及，非洲与阿拉伯世界的交汇点。开罗是阿拉伯世界最早拥抱爵士的城市，亚历山大则是欧洲爵士进入北非的登陆口岸。尼罗河两岸的生活节奏缓慢而潮湿，埃及maqam的五声音阶和爵士的12小节blues在这里找到了一种天然的融合。&#10;&#10;📍 Cairo · Tarab / طرب — 阿拉伯音乐独有的概念：不是「听歌」，是「入境」「迷醉」。当乌德琴的maqam调式在即兴中层层攀升，听众与乐手一起进入半出神的状态——这是埃及爵士最接近传统音乐灵魂的时刻。&#10;&#10;Collection: NafasJazz  |  Duration: 1:21:06</description>
+      <itunes:summary>开罗·塔尔巴之夜。开罗是阿拉伯世界最早拥抱爵士的城市。Tarab不是听歌，是入境、迷醉。</itunes:summary>
     </item>
 
     <item>
-      <title>🇪🇬 尼罗河爵士·吉萨 — 吉萨·金字塔月光</title>
+      <title>S1.2 🇪🇬 尼罗河爵士·吉萨 — 金字塔月光 · Moon Over Giza · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/moon-over-giza-egyptian-jazz-arabic-melodies-mix-ideal-for-work-late-n.m4a" length="66760240" type="audio/mp4"/>
       <guid isPermaLink="false">a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1:35:41</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>1:08:48</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <description>Moon Over Giza · 尼罗河爵士·吉萨 — 吉萨·金字塔月光&#10;&#10;Collection: SaffronJazzLounge  |  Duration: 1:35:41</description>
-      <itunes:summary>吉萨·金字塔月光。月光洒在三大金字塔上，沙漠的风穿过四千年的石头。</itunes:summary>
+      <description>S1.2 吉萨·金字塔月光&#10;&#10;尼罗河爵士——埃及，非洲与阿拉伯世界的交汇点。开罗是阿拉伯世界最早拥抱爵士的城市，亚历山大则是欧洲爵士进入北非的登陆口岸。尼罗河两岸的生活节奏缓慢而潮湿，埃及maqam的五声音阶和爵士的12小节blues在这里找到了一种天然的融合。&#10;&#10;📍 Giza · 吉萨金字塔——全人类最古老的地标之一。月光洒在三大金字塔和狮身人面像上，沙漠的风穿过四千年的石头。当萨克斯或电钢琴在这个背景下低语，埃及爵士有了时间的纵深。&#10;&#10;Collection: SaffronJazzLounge  |  Duration: 1:08:48</description>
+      <itunes:summary>吉萨·金字塔月光。月光洒在三大金字塔上，沙漠的风穿过四千年的石头。当萨克斯低语，埃及爵士有了时间的纵深。</itunes:summary>
     </item>
 
     <item>
-      <title>🇪🇬 尼罗河爵士·卢克索 — 卢克索·底比斯海市蜃楼</title>
+      <title>S1.3 🇪🇬 尼罗河爵士·卢克索 — 底比斯海市蜃楼 · Luxor Jazz Mirage · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/luxor-jazz-mirage-egyptian-jazz-arabic-melodies-mix-ideal-for-late-nig.m4a" length="56271671" type="audio/mp4"/>
       <guid isPermaLink="false">b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7</guid>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
       <itunes:duration>0:57:59</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
-      <description>Luxor Jazz Mirage · 尼罗河爵士·卢克索 — 卢克索·底比斯海市蜃楼&#10;&#10;Collection: NafasJazz  |  Duration: 0:57:59</description>
-      <itunes:summary>卢克索·底比斯海市蜃楼。在帝王谷与卡纳克神庙之间听到的爵士。</itunes:summary>
+      <description>S1.3 卢克索·底比斯海市蜃楼&#10;&#10;尼罗河爵士——埃及，非洲与阿拉伯世界的交汇点。开罗是阿拉伯世界最早拥抱爵士的城市，亚历山大则是欧洲爵士进入北非的登陆口岸。尼罗河两岸的生活节奏缓慢而潮湿，埃及maqam的五声音阶和爵士的12小节blues在这里找到了一种天然的融合。&#10;&#10;📍 Luxor · 卢克索——古埃及底比斯（Waset），尼罗河中游的古城。帝王谷、卡纳克神庙、门农巨像的所在地。「海市蜃楼（Mirage）」是沙漠中的幻象——就像在卢克索听到的爵士：它不完全真实，但比真实更美。&#10;&#10;Collection: NafasJazz  |  Duration: 0:57:59</description>
+      <itunes:summary>卢克索·底比斯海市蜃楼。卢克索——古埃及底比斯，帝王谷的所在地。这里的爵士像沙漠中的幻象，比真实更美。</itunes:summary>
     </item>
 
     <item>
-      <title>🇪🇬 尼罗河爵士·亚历山大 — 亚历山大·星空下的爵士</title>
+      <title>S1.4 🇪🇬 尼罗河爵士·亚历山大 — 星空下的爵士 · Alexandria Jazz · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/jazz-night-under-the-stars-of-alexandria-arabic-jazz-fusion.m4a" length="60958276" type="audio/mp4"/>
       <guid isPermaLink="false">d6f9c793b20c1a488ed958aff0d98a12</guid>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
       <itunes:duration>1:02:49</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
-      <description>Jazz Night Under the Stars of Alexandria · 尼罗河爵士·亚历山大 — 亚历山大·星空下的爵士&#10;&#10;Collection: NafasJazz  |  Duration: 1:02:49</description>
-      <itunes:summary>亚历山大·星空下的爵士。地中海港口的爵士之夜——钢琴像浪，管乐像鸥。</itunes:summary>
+      <description>S1.4 亚历山大·星空下的爵士&#10;&#10;尼罗河爵士——埃及，非洲与阿拉伯世界的交汇点。开罗是阿拉伯世界最早拥抱爵士的城市，亚历山大则是欧洲爵士进入北非的登陆口岸。尼罗河两岸的生活节奏缓慢而潮湿，埃及maqam的五声音阶和爵士的12小节blues在这里找到了一种天然的融合。&#10;&#10;📍 Alexandria · 亚历山大港，地中海南岸的白色城市。这里的爵士有海风的咸味——希腊、意大利、法国侨民留下的音乐遗产，在科尼什海滨大道的咖啡馆里混合着渔港的节奏。星空之下的爵士，就像亚历山大自身：一个从不需要大声说话的城市。&#10;&#10;Collection: NafasJazz  |  Duration: 1:02:49</description>
+      <itunes:summary>亚历山大·星空下的爵士。亚历山大港，地中海南岸的白色城市，这里的爵士有海风的咸味。</itunes:summary>
     </item>
 
     <item>
-      <title>🇪🇬 尼罗河爵士·尼罗河 — 尼罗河畔·静谧夜</title>
+      <title>S1.5 🇪🇬 尼罗河爵士·尼罗河 — 静谧夜 · Nile Nights · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/quiet-nights-by-the-nile-egyptian-jazz-arabic-melodies-mix-ideal-for-l.m4a" length="65591281" type="audio/mp4"/>
       <guid isPermaLink="false">c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8</guid>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
       <itunes:duration>1:07:36</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
-      <description>Quiet Nights by the Nile · 尼罗河爵士·尼罗河 — 尼罗河畔·静谧夜&#10;&#10;Collection: NafasJazz  |  Duration: 1:07:36</description>
-      <itunes:summary>尼罗河畔·静谧夜。尼罗河爵士终曲——一条河的爵士，流淌了七千年。</itunes:summary>
+      <description>S1.5 尼罗河畔·静谧夜&#10;&#10;尼罗河爵士——埃及，非洲与阿拉伯世界的交汇点。开罗是阿拉伯世界最早拥抱爵士的城市，亚历山大则是欧洲爵士进入北非的登陆口岸。尼罗河两岸的生活节奏缓慢而潮湿，埃及maqam的五声音阶和爵士的12小节blues在这里找到了一种天然的融合。&#10;&#10;📍 Nile · 尼罗河，世界上最长的河流，埃及文明的血液。从卢克索到亚历山大，尼罗河串联起上下埃及的所有城市。这集是埃及赛季的终曲——从源头到入海口，一条河的爵士。&#10;&#10;Collection: NafasJazz  |  Duration: 1:07:36</description>
+      <itunes:summary>尼罗河畔·静谧夜。尼罗河，埃及文明的血液。这集是埃及赛季的终曲——一条河的爵士。</itunes:summary>
     </item>
 
-    <!-- S2 Levant -->
     <item>
-      <title>🇱🇧🇸🇾 黎凡特·贝鲁特1/4 — 黄金年代·哈姆拉街的爵士</title>
+      <title>S2.1 🇱🇧🇸🇾 黎凡特·贝鲁特 — 黄金年代 · Beirut Jazz · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/beirut-jazz-experience-lebanese-jazz-arabic-melodies-mix-ide.m4a" length="66567319" type="audio/mp4"/>
       <guid isPermaLink="false">031c81db59bd8c88a089087cb7ff28f4</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>1:08:36</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>2</itunes:season>
       <itunes:episode>1</itunes:episode>
-      <description>Beirut Jazz Experience · 黎凡特·贝鲁特1/4 — 黄金年代·哈姆拉街的爵士&#10;&#10;Collection: NafasJazz  |  Duration: </description>
-    </item>
+      <description>S2.1 贝鲁特·黄金年代&#10;&#10;黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut • 1950-60年代，贝鲁特被称为「中东巴黎」。哈姆拉街（Rue Hamra）上的爵士俱乐部彻夜不熄——法国殖民带回的爵士乐在这里遇见了黎巴嫩本土的达布卡节奏。&#10;作曲家Ziad Rahbani（Fairuz之子）是这段历史的关键人物：他在70-80年代创作的爵士-funk-阿拉伯融合，至今仍是黎巴嫩爵士的标杆。&#10;&#10;Collection: NafasJazz  |  Duration: 1:08:36</description>
+    
+    <itunes:summary>黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut • 1950-60年代，贝鲁特被称为「中东巴黎」。哈姆拉街（Rue Hamra）上的爵士俱乐部彻夜不熄——法国殖民带回的爵士乐在这里遇见了黎巴嫩本土的达布卡节奏。&#10;作曲家Ziad Rahbani（Fairuz之子）是这段历史的关键人物：他在70-80年代创作的爵士-funk-阿拉伯融合，至今仍是黎巴嫩爵士的标杆。</itunes:summary></item>
 
     <item>
-      <title>🇱🇧🇸🇾 黎凡特·贝鲁特2/4 — 地下爵士与电子之夜</title>
+      <title>S2.2 🇱🇧🇸🇾 黎凡特·贝鲁特 — 地下电子 · Beirut Nights · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/beirut-nights-unspoken-smooth-arabic-jazz-oud-for-deep-focus.m4a" length="59120344" type="audio/mp4"/>
       <guid isPermaLink="false">8856437e481e0094767951fef747b898</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>1:00:55</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>2</itunes:season>
       <itunes:episode>2</itunes:episode>
-      <description>Beirut Nights Unspoken · 黎凡特·贝鲁特2/4 — 地下爵士与电子之夜&#10;&#10;Collection: SaffronJazzLounge  |  Duration: </description>
-    </item>
+      <description>S2.2 贝鲁特·地下电子&#10;&#10;黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut • 如果说白天的贝鲁特是商业和硝烟，那么夜晚的贝鲁特则是另一种城市——海风从地中海吹来，屋顶酒吧的乌德琴和钢琴在低声纠缠。&#10;贝鲁特的夜晚从不安静。内战期间，俱乐部转入地下，爵士在防空洞和私人客厅里继续呼吸。战后的贝鲁特夜生活反而更丰富——新一代音乐人把电子、trip-hop 放进爵士里，形成了「贝鲁特地下爵士」的声音。&#10;&#10;Collection: SaffronJazzLounge  |  Duration: 1:00:55</description>
+    
+    <itunes:summary>黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut • 如果说白天的贝鲁特是商业和硝烟，那么夜晚的贝鲁特则是另一种城市——海风从地中海吹来，屋顶酒吧的乌德琴和钢琴在低声纠缠。&#10;贝鲁特的夜晚从不安静。内战期间，俱乐部转入地下，爵士在防空洞和私人客厅里继续呼吸。战后的贝鲁特夜生活反而更丰富——新一代音乐人把电子、trip-hop 放进爵士里，形成了「贝鲁特地下爵士」的声音。</itunes:summary></item>
 
     <item>
-      <title>🇱🇧🇸🇾 黎凡特·贝鲁特3/4 — 弹孔墙与咖啡馆即兴</title>
+      <title>S2.3 🇱🇧🇸🇾 黎凡特·贝鲁特 — 弹孔咖啡馆 · Beirut Unsaid · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/beirut-unsaid-lebanese-jazz-arabic-melodies-mix-ideal-for-la.m4a" length="55872950" type="audio/mp4"/>
       <guid isPermaLink="false">9fdebf813722ff70c4f030e907ed806f</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>0:57:34</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>2</itunes:season>
       <itunes:episode>3</itunes:episode>
-      <description>Beirut, Unsaid · 黎凡特·贝鲁特3/4 — 弹孔墙与咖啡馆即兴&#10;&#10;Collection: NafasJazz  |  Duration: </description>
-    </item>
+      <description>S2.3 贝鲁特·弹孔咖啡馆&#10;&#10;黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut • 「未言之语」是贝鲁特的底色。这座城市的街道上到处是战争留下的弹孔墙面，但当地人不说这些——他们把记忆埋在咖啡馆的角落，藏进即兴的旋律里。&#10;贝鲁特的爵士有一种特殊的克制：从不大声宣告，只用音符的间隙暗示未完的故事。就像黎巴嫩人常说的：「没必要说的事，用音乐说。」&#10;&#10;Collection: NafasJazz  |  Duration: 0:57:34</description>
+    
+    <itunes:summary>黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut • 「未言之语」是贝鲁特的底色。这座城市的街道上到处是战争留下的弹孔墙面，但当地人不说这些——他们把记忆埋在咖啡馆的角落，藏进即兴的旋律里。&#10;贝鲁特的爵士有一种特殊的克制：从不大声宣告，只用音符的间隙暗示未完的故事。就像黎巴嫩人常说的：「没必要说的事，用音乐说。」</itunes:summary></item>
 
     <item>
-      <title>🇱🇧🇸🇾 黎凡特·贝鲁特4/4 — 乌德琴·深夜lo-fi</title>
+      <title>S2.4 🇱🇧🇸🇾 黎凡特·贝鲁特 — 乌德琴lo-fi · Oud Lofi · الجاز العربي</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/arabian-oud-lofi-beirut-nights.m4a" length="76757358" type="audio/mp4"/>
       <guid isPermaLink="false">594a49a4d2ca5d200933f3edfc1cf6c6</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>0:00</itunes:duration>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>1:19:06</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>2</itunes:season>
       <itunes:episode>4</itunes:episode>
-      <description>Arabian Oud Lofi Beirut Nights · 黎凡特·贝鲁特4/4 — 乌德琴·深夜lo-fi&#10;&#10;Collection: SantonoNoise  |  Duration: </description>
-    </item>
+      <description>S2.4 贝鲁特·乌德琴lo-fi&#10;&#10;黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut • 乌德琴是黎凡特的灵魂乐器。在贝鲁特，乌德琴尤其特别——它既是传统阿拉伯音乐的核心（弹奏maqam调式时每个微分音都带着情绪），又最容易被爵士接纳（乌德琴没有品丝，天然适合即兴）。&#10;这集的乌德琴是lo-fi的、深夜的——不像音乐厅里的独奏，更像贝鲁特老城区巷子里一个乌德琴手在半夜独自弹给自己听的旋律。&#10;&#10;Collection: SantonoNoise  |  Duration: 1:19:06</description>
+    
+    <itunes:summary>黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut • 乌德琴是黎凡特的灵魂乐器。在贝鲁特，乌德琴尤其特别——它既是传统阿拉伯音乐的核心（弹奏maqam调式时每个微分音都带着情绪），又最容易被爵士接纳（乌德琴没有品丝，天然适合即兴）。&#10;这集的乌德琴是lo-fi的、深夜的——不像音乐厅里的独奏，更像贝鲁特老城区巷子里一个乌德琴手在半夜独自弹给自己听的旋律。</itunes:summary></item>
 
-    <item>
-      <title>🇸🇾 黎凡特·大马士革 — 大马士革·未言之语</title>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/damascus-unsaid-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="88852982" type="audio/mp4"/>
-      <guid isPermaLink="false">b6935bb21b67fc5c12b8908f6e2e63bf</guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <item>
+    <title>S2.5 🇱🇧🇸🇾 黎凡特·贝鲁特 — 未说完的夜 · Beirut Unsaid · الجاز العربي</title>
+    <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/beirut-unsaid-saffron.m4a" length="42704859" type="audio/mp4"/>
+    <guid isPermaLink="false">d45bea433b55729a28ed2d131753ef45</guid>
+    <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+    <itunes:duration>44:00</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <description>S2.5 🇱🇧🇸🇾 黎凡特·贝鲁特 — 未说完的夜 · Beirut Unsaid · الجاز العربي&#10;&#10;黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut · 贝鲁特四部曲的最后一章。黄金年代的喧嚣散去，地下电子偃旗息鼓，弹孔墙在月光下沉默，乌德琴手已经收起了琴。深夜的贝鲁特有一种奇异的安静——不是宁静，是所有还没说完的话在空气里漂浮的那种安静。&#10;&#10;这首来自SaffronJazzLounge的「Beirut Unsaid」，比NafasJazz的同名曲更柔、更散、更像凌晨四点阳台上最后一口烟。&#10;&#10;Collection: SaffronJazzLounge  |  Duration: 44:00</description>
+    <itunes:summary>黎凡特（Levant）指地中海东岸的叙利亚-黎凡特地区——黎巴嫩、叙利亚、约旦、巴勒斯坦。这里有千年历史的海港城市、曲折的小巷和深夜不眠的咖啡馆，阿拉伯爵士最具都市感的分支就诞生在这条海岸线上。&#10;&#10;📍 Beirut · 贝鲁特四部曲的最后一章。黄金年代的喧嚣散去，地下电子偃旗息鼓，弹孔墙在月光下沉默，乌德琴手已经收起了琴。深夜的贝鲁特有一种奇异的安静——不是宁静，是所有还没说完的话在空气里漂浮的那种安静。&#10;&#10;这首来自SaffronJazzLounge的「Beirut Unsaid」，比NafasJazz的同名曲更柔、更散、更像凌晨四点阳台上最后一口烟。</itunes:summary>
+  </item>
+
+    <!--
+<item>
+      <title>S3.1 巴格达·底格里斯蓝调</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/echoes-of-baghdad-iraqi-maqam-western-jazz-fusion.m4a" length="33511201" type="audio/mp4"/>
+      <guid isPermaLink="false">8e5fc4ac4ad9eba9fb57d2aceb5c0404</guid>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
       <itunes:duration>0:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>2</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <description>Damascus, Unsaid · 黎凡特·大马士革 — 大马士革·未言之语&#10;&#10;Collection: NafasJazz  |  Duration: </description>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>S3.1 巴格达·底格里斯蓝调&#10;&#10;Collection: ArobiyyahJazz  |  Duration: </description>
     </item>
+-->
+
+    <!--
+<item>
+      <title>S4.1 卡萨布兰卡·撒哈拉的低语</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/hidden-in-casablanca-arabic-jazz-moroccan-melodies-mix-ideal.m4a" length="63281478" type="audio/mp4"/>
+      <guid isPermaLink="false">3a5e9cce86cb259893dccda5b9f0beb5</guid>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>S4.1 卡萨布兰卡·撒哈拉的低语&#10;&#10;Collection: NafasJazz  |  Duration: </description>
+    </item>
+-->
+
+    <!--
+<item>
+      <title>S4.2 突尼斯·乌德琴与寂静</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/tunis-knows-jazz-arabic-jazz-ethereal-melodies-mix-ideal-for.m4a" length="87994725" type="audio/mp4"/>
+      <guid isPermaLink="false">8f5f9435da5acd1e7c82aa3f59a3cd44</guid>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <description>S4.2 突尼斯·乌德琴与寂静&#10;&#10;Collection: NafasJazz  |  Duration: </description>
+    </item>
+-->
+
+    <!--
+<item>
+      <title>S4.3 瓦赫兰·醉酒的爵士号</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/midnight-in-wahran-oran-algerian-jazz-rai-fusion-mix-ideal.m4a" length="71425639" type="audio/mp4"/>
+      <guid isPermaLink="false">0a35495a74b9f031048814b8d25c23eb</guid>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <description>S4.3 瓦赫兰·醉酒的爵士号&#10;&#10;Collection: NafasJazz  |  Duration: </description>
+    </item>
+-->
+
+    <!--
+<item>
+      <title>S5.1 萨那·时间停驻的城</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/remembering-old-sanaa-yemeni-jazz-fusion-smooth-arabic-melo.m4a" length="41625956" type="audio/mp4"/>
+      <guid isPermaLink="false">7a6a9e40dabe01ce7f61c69fe1842f50</guid>
+      <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <description>S5.1 萨那·时间停驻的城&#10;&#10;Collection: NafasJazz  |  Duration: </description>
+    </item>
+-->
 
   </channel>
 </rss>
