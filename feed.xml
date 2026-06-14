@@ -12,7 +12,7 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://luxuguang-leo.github.io/arabic-jazz-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 04 Jun 2026 08:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:11:12 +0000</lastBuildDate>
     <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
 
     <item>
@@ -169,6 +169,18 @@
       <itunes:episode>1</itunes:episode>
       <description>S3.1 🇸🇾 大马士革·未言之语 — Damascus Unsaid · الجاز السوري&#10;&#10;叙利亚，黎凡特最古老的心脏。大马士革是人类连续居住最久的城市——四千年的城墙、倭马亚清真寺的蓝色马赛克、哈米迪亚市场的喧嚣、老城小巷里飘出的乌德琴声。&#10;&#10;📍 Damascus · 「未言之语」是大马士革的气质。叙利亚古典音乐的即兴段落(taqsim)与爵士独奏在结构上一脉相承——老城咖啡馆里，乌德琴并不急于说话，它在等一个和弦来接住它。这集91分钟，是赛季的序章也是最长的一曲，像大马士革本身：不急，但你走不出去。&#10;&#10;Collection: NafasJazz  |  Duration: 1:31</description>
     </item>
+    <item>
+      <title>S3.2 🇸🇾 大马士革·爵士之旅 — Jazz Trip To Damascus · الجاز السوري</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/jazz-trip-to-damascus.m4a" length="60305244" type="audio/mp4"/>
+      <guid isPermaLink="false">s32-damascus-jazz-trip-v1</guid>
+      <pubDate>Sun, 14 Jun 2026 15:11:12 +0000</pubDate>
+      <itunes:duration>1:02:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <description>S3.2 🇸🇾 大马士革·爵士之旅 — Jazz Trip To Damascus · الجاز السوري&#10;&#10;叙利亚，黎凡特最古老的心脏。大马士革是人类连续居住最久的城市——四千年的城墙、倭马亚清真寺的蓝色马赛克、哈米迪亚市场的喧嚣、老城小巷里飘出的乌德琴声。&#10;&#10;📍 Damascus · 爵士之旅的开端。NafasJazz 的「Jazz Trip To Damascus」系列四部曲就此展开。这集是入城——从城外看向大马士革的轮廓，宣礼塔、古城墙、远处的 Qasioun 山。&#10;&#10;Collection: NafasJazz  |  Duration: 1:02:08</description>
+    </item>
+
 
     <!--
 <item>
