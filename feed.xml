@@ -12,7 +12,7 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://luxuguang-leo.github.io/arabic-jazz-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 14 Jun 2026 15:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:46:00 +0000</lastBuildDate>
     <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
 
     <item>
@@ -182,7 +182,18 @@
     </item>
 
 
-    <!--
+        <item>
+      <title>S3.3 🇸🇾 大马士革·古城回响 — Jazz Trip Vol.2 · الجاز السوري</title>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/jazz-trip-to-damascus-vol2-arabic-jazz-fusion.m4a" length="65413356" type="audio/mp4"/>
+      <guid isPermaLink="false">d1c775f1fd96d47d7dd570da20d4849b</guid>
+      <pubDate>Wed, 01 Jul 2026 03:46:00 +0000</pubDate>
+      <itunes:duration>01:07:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <description>S3.3 🇸🇾 大马士革·古城回响 — Jazz Trip Vol.2 · الجاز السوري&#10;&#10;叙利亚，黎凡特最古老的心脏。大马士革是人类连续居住最久的城市——四千年的城墙、倭马亚清真寺的蓝色马赛克、哈米迪亚市场的喧嚣、老城小巷里飘出的乌德琴声。&#10;&#10;📍 Damascus · Jazz Trip 四部曲的第二站。如果说 Vol.1 是从城外看向大马士革的轮廓，Vol.2 便是一脚踏入老城——石头铺就的直街（Via Recta），两千年前的罗马大道，如今两侧是香料铺、金器店和茶馆。尼的音乐从某个敞开的门里飘出，和萨克斯在同一个空间里呼吸。&#10;&#10;Collection: NafasJazz  |  Duration: 01:07:24</description>
+    </item>
+<!--
 <item>
       <title>S4.1 卡萨布兰卡·撒哈拉的低语</title>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/hidden-in-casablanca-arabic-jazz-moroccan-melodies-mix-ideal.m4a" length="63281478" type="audio/mp4"/>
