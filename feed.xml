@@ -189,17 +189,6 @@
       <itunes:episode>2</itunes:episode>
       <description>S3.2 🇸🇾 大马士革·爵士之旅 — Jazz Trip To Damascus · الجاز السوري&#10;&#10;叙利亚，黎凡特最古老的心脏。大马士革是人类连续居住最久的城市——四千年的城墙、倭马亚清真寺的蓝色马赛克、哈米迪亚市场的喧嚣、老城小巷里飘出的乌德琴声。&#10;&#10;📍 Damascus · 爵士之旅的开端。NafasJazz 的「Jazz Trip To Damascus」系列四部曲就此展开。这集是入城——从城外看向大马士革的轮廓，宣礼塔、古城墙、远处的 Qasioun 山。&#10;&#10;Collection: NafasJazz  |  Duration: 1:02:08</description>
     </item>
-    <item>
-      <title>S3.2 🇸🇾 大马士革·爵士之旅 — Jazz Trip To Damascus · الجاز السوري</title>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/jazz-trip-to-damascus.m4a" length="60305244" type="audio/mp4"/>
-      <guid isPermaLink="false">s32-damascus-jazz-trip-v1</guid>
-      <pubDate>Sun, 14 Jun 2026 15:11:12 +0000</pubDate>
-      <itunes:duration>1:02:08</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>3</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <description>S3.2 🇸🇾 大马士革·爵士之旅 — Jazz Trip To Damascus · الجاز السوري&#10;&#10;叙利亚，黎凡特最古老的心脏。大马士革是人类连续居住最久的城市——四千年的城墙、倭马亚清真寺的蓝色马赛克、哈米迪亚市场的喧嚣、老城小巷里飘出的乌德琴声。&#10;&#10;📍 Damascus · 爵士之旅的开端。NafasJazz 的「Jazz Trip To Damascus」系列四部曲就此展开。这集是入城——从城外看向大马士革的轮廓，宣礼塔、古城墙、远处的 Qasioun 山。&#10;&#10;Collection: NafasJazz  |  Duration: 1:02:08</description>
-    </item>
 
 
         <item>
@@ -207,7 +196,7 @@
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/arabic-jazz/jazz-trip-to-damascus-vol2-arabic-jazz-fusion.m4a" length="65413356" type="audio/mp4"/>
       <guid isPermaLink="false">d1c775f1fd96d47d7dd570da20d4849b</guid>
       <pubDate>Wed, 01 Jul 2026 03:46:00 +0000</pubDate>
-      <itunes:duration>01:07:24</itunes:duration>
+      <itunes:duration>1:07:24</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>3</itunes:season>
       <itunes:episode>3</itunes:episode>
